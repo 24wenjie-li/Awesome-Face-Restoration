@@ -6,3 +6,7 @@
     <a href="https://github.com/24wenjie-li/Awesome-Face-Restoration/blob/main/imgs/Supplementary.pdf">[Supplementary Material]</a>
   </p>
 </p>
+
+
+| <img src="./imgs/"  height=224 width=224> | <img src="./imgs/" width=224 height=224> | <img src="./imgs/" height=224 width=224"> |<img src="./imgs/" height=224 width=224"> |<img src="./imgs/" height=224 width=224"> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |:----------------------------------------------------------: |:----------------------------------------------------------: |
