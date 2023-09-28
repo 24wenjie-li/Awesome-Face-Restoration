@@ -7,7 +7,7 @@
   </p>
 </p>
 
-| [<img src="./imgs/Synthetic_HiFaceGAN.png"  height=128 width=128>](https://imgsli.com/MjEwMDg0) | <img src="./imgs/" width=128 height=128> | <img src="./imgs/" height=128 width=128"> |<img src="./imgs/" height=128 width=128"> |<img src="./imgs/" height=128 width=128"> |
+| [<img src="imgs/Synthetic_HiFaceGAN.png" height=128 width=128>](https://imgsli.com/MjEwMDg0) | <img src="./imgs/" width=128 height=128> | <img src="./imgs/" height=128 width=128"> |<img src="./imgs/" height=128 width=128"> |<img src="./imgs/" height=128 width=128"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |:----------------------------------------------------------: |:----------------------------------------------------------: |
 
 | <img src="./imgs/"  height=196 width=196> | <img src="./imgs/" width=196 height=196> | <img src="./imgs/" height=196 width=224"> |<img src="./imgs/" height=196 width=196"> |<img src="./imgs/" height=196 width=196"> |
