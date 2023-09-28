@@ -1,3 +1,4 @@
+<!-- PROJECT LOGO -->
 <p align="center">
   <h3 align="center">Survey on Deep Face Restoration: From Non-blind to Blind and Beyond </h3>
   <p align="center">A comprehensive statistic on methods related to deep face restoration.
@@ -12,7 +13,6 @@
 
 | <img src="imgs/Synthetic_HiFaceGAN.png"  height=224 width=224> | <img src="imgs/Synthetic_HiFaceGAN.png" width=224 height=224> | <img src="imgs/Synthetic_HiFaceGAN.png" width=224 height=224> | <img src="imgs/Synthetic_HiFaceGAN.png" width=224 height=224> | <img src="imgs/Synthetic_HiFaceGAN.png" width=224 height=224> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |:----------------------------------------------------------: |:----------------------------------------------------------: |
-|           Blind Face Restoration                          |                      Face Super-Resolution                                | Face Deblurring</font>        |Face Denoising    | Face Artifact Removal
 
 
 | <img src="./imgs/"  height=196 width=196> | <img src="./imgs/" width=196 height=196> | <img src="./imgs/" height=196 width=224"> |<img src="./imgs/" height=196 width=196"> |<img src="./imgs/" height=196 width=196"> |
