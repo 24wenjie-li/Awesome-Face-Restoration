@@ -12,6 +12,7 @@
 
 | <img src="imgs/Synthetic_HiFaceGAN.png"  height=224 width=224> | <img src="imgs/Synthetic_HiFaceGAN.png" width=224 height=224> | <img src="imgs/Synthetic_HiFaceGAN.png" width=224 height=224> | <img src="imgs/Synthetic_HiFaceGAN.png" width=224 height=224> | <img src="imgs/Synthetic_HiFaceGAN.png" width=224 height=224> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |:----------------------------------------------------------: |:----------------------------------------------------------: |
+|           Blind Face Restoration                          |                      Face Super-Resolution                                | Face Deblurring</font>        |Face Denoising    | Face Artifact Removal
 
 
 | <img src="./imgs/"  height=196 width=196> | <img src="./imgs/" width=196 height=196> | <img src="./imgs/" height=196 width=224"> |<img src="./imgs/" height=196 width=196"> |<img src="./imgs/" height=196 width=196"> |
