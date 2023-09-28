@@ -1,1 +1,1 @@
-# Deep Face Restoration Survey: From Non-blind to Blind Restoration and Beyond
+# Survey on Deep Face Restoration: From Non-blind to Blind and Beyond
