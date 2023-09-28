@@ -3,7 +3,6 @@
   <p align="center">A comprehensive statistic on methods related to deep face restoration.
     <br />
     <a href="http://export.arxiv.org/pdf/2309.15490">Paper</a>
-    <br />
     <a href="">Supplementary Material</a>
   </p>
 </p>
