@@ -7,7 +7,7 @@
   </p>
 </p>
 
-| [<img src="imgs/Synthetic_HiFaceGAN.png" height="223px"/>](https://imgsli.com/MjEwMDg0) | <img src="./imgs/" width=224 height=224> | <img src="./imgs/" height=224 width=224"> |<img src="./imgs/" height=224 width=224"> |<img src="./imgs/" height=224 width=224"> |
+| [<img src="imgs/Synthetic_HiFaceGAN.png" height="223px"/>](https://imgsli.com/MjEwMDg0) | [<img src="imgs/Synthetic_HiFaceGAN.png" height="223px"/>](https://imgsli.com/MjEwMDg0) | [<img src="imgs/Synthetic_HiFaceGAN.png" height="223px"/>](https://imgsli.com/MjEwMDg0) |[<img src="imgs/Synthetic_HiFaceGAN.png" height="223px"/>](https://imgsli.com/MjEwMDg0) |[<img src="imgs/Synthetic_HiFaceGAN.png" height="223px"/>](https://imgsli.com/MjEwMDg0) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |:----------------------------------------------------------: |:----------------------------------------------------------: |
 
 | <img src="./imgs/"  height=196 width=196> | <img src="./imgs/" width=196 height=196> | <img src="./imgs/" height=196 width=224"> |<img src="./imgs/" height=196 width=196"> |<img src="./imgs/" height=196 width=196"> |
