@@ -3,6 +3,6 @@
   <p align="center">A comprehensive statistic on methods related to deep face restoration.
     <br />
     <a href="http://export.arxiv.org/pdf/2309.15490">[Paper]</a> &emsp;
-    <a href="">[Supplementary Material]</a>
+    <a href="https://github.com/24wenjie-li/Awesome-Face-Restoration/blob/main/imgs/Supplementary.pdf">[Supplementary Material]</a>
   </p>
 </p>
