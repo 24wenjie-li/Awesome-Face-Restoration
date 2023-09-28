@@ -10,7 +10,7 @@
 | [<img src="imgs/Synthetic_HiFaceGAN.png" height=224 width=224>](https://imgsli.com/MjEwMDg0) | [<img src="imgs/Synthetic_HiFaceGAN.png" height="223px"/>](https://imgsli.com/MjEwMDg0) | [<img src="imgs/Synthetic_HiFaceGAN.png" height="223px"/>](https://imgsli.com/MjEwMDg0) |[<img src="imgs/Synthetic_HiFaceGAN.png" height="223px"/>](https://imgsli.com/MjEwMDg0) |[<img src="imgs/Synthetic_HiFaceGAN.png" height="223px"/>](https://imgsli.com/MjEwMDg0) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |:----------------------------------------------------------: |:----------------------------------------------------------: |
 
-| <img src="imgs/Synthetic_HiFaceGAN.png"  height=196 width=196> | <img src="imgs/Synthetic_HiFaceGAN.png" width=196 height=196> | <img src="imgs/Synthetic_HiFaceGAN.png" width=196 height=196> | <img src="imgs/Synthetic_HiFaceGAN.png" width=196 height=196> | <img src="imgs/Synthetic_HiFaceGAN.png" width=196 height=196> |
+| <img src="imgs/Synthetic_HiFaceGAN.png"  height=224 width=224> | <img src="imgs/Synthetic_HiFaceGAN.png" width=224 height=224> | <img src="imgs/Synthetic_HiFaceGAN.png" width=224 height=224> | <img src="imgs/Synthetic_HiFaceGAN.png" width=224 height=224> | <img src="imgs/Synthetic_HiFaceGAN.png" width=224 height=224> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |:----------------------------------------------------------: |:----------------------------------------------------------: |
 
 
