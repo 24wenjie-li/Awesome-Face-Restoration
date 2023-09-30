@@ -8,7 +8,7 @@
   </p>
 </p>
 
-| [<img src="imgs/Synthetic_HiFaceGAN.png" height="128px">](https://imgsli.com/MjEwMDg0) | [<img src="imgs/Synthetic_HiFaceGAN.png" height="128px"/>](https://imgsli.com/MjEwMDg0) | [<img src="imgs/Synthetic_HiFaceGAN.png" height="128px"/>](https://imgsli.com/MjEwMDg0) |[<img src="imgs/Synthetic_HiFaceGAN.png" height="128px"/>](https://imgsli.com/MjEwMDg0) |[<img src="imgs/Synthetic_HiFaceGAN.png" height="128px"/>](https://imgsli.com/MjEwMDg0) |
+| [<img src="imgs/Synthetic_HiFaceGAN.png" height="128px">](https://imgsli.com/MjEwMDg0) | [<img src="imgs/Synthetic_HiFaceGAN.png" height="128px"/>](https://imgsli.com/MjEwMDg0) | [<img src="imgs/Synthetic_HiFaceGAN.png" height="128px"/>](https://imgsli.com/MjEwMDg0) | [<img src="imgs/Synthetic_HiFaceGAN.png" height="128px"/>](https://imgsli.com/MjEwMDg0) | [<img src="imgs/Synthetic_HiFaceGAN.png" height="128px"/>](https://imgsli.com/MjEwMDg0) | [<img src="imgs/Synthetic_HiFaceGAN.png" height="128px"/>](https://imgsli.com/MjEwMDg0) |
 
 
 | <img src="imgs/Synthetic_HiFaceGAN.png"  height=224 width=224> | <img src="imgs/Synthetic_HiFaceGAN.png" width=224 height=224> | <img src="imgs/Synthetic_HiFaceGAN.png" width=224 height=224> | <img src="imgs/Synthetic_HiFaceGAN.png" width=224 height=224> | <img src="imgs/Synthetic_HiFaceGAN.png" width=224 height=224> |
