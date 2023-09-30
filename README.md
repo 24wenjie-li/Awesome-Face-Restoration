@@ -15,11 +15,7 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |:----------------------------------------------------------: |:----------------------------------------------------------: |
 
 
-| <img src="./imgs/Synthetic_HiFaceGAN.png"  height=224 width=224 alt="Blind face restoration"> | <img src="./imgs/Synthetic_HiFaceGAN.png" width=224 height=224 alt="Face super-resolution"> | <img src="./imgs/Synthetic_HiFaceGAN.png" height=224 width=224 alt="Face deblurring"> |<img src="./imgs/Synthetic_HiFaceGAN.png" height=224 width=224 alt="Face denoising"> |<img src="./imgs/Synthetic_HiFaceGAN.png" height=224 width=224 alt="Face artifact removal"> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |:----------------------------------------------------------: |:----------------------------------------------------------: |
-|           Blind Face Restoration                          |                      Face Super-Resolution                                | Face Deblurring</font>        |Face Denoising    | Face Artifact Removal
-
 | <img src="./figures/full.gif"  height=224 width=224 alt="Blind face restoration"> | <img src="./figures/LR.gif" width=224 height=224 alt="Face super-resolution"> | <img src="./figures/blur.gif" height=224 width=224 alt="Face deblurring"> |<img src="./figures/noise.gif" height=224 width=224 alt="Face denoising"> |<img src="./figures/jpeg.gif" height=224 width=224 alt="Face artifact removal"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |:----------------------------------------------------------: |:----------------------------------------------------------: |
-|           Blind Face Restoration                          |                      Face Super-Resolution                                | Face Deblurring</font>        |Face Denoising    | Face Artifact Removal
+|           1            |             2                   | 3        | 4   | 5
 
