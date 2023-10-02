@@ -8,7 +8,7 @@
   </p>
 </p>
 
-<p align="center">
+<p>
   <img src="imgs/Non-blind.png">
 </p>
 
