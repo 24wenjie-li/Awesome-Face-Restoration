@@ -12,6 +12,6 @@
 
 |[<img src="imgs/Real_HiFaceGAN.png" height="128px"/>](https://imgsli.com/MjEwOTIx) | [<img src="imgs/Real_GFPGAN.png" height="128px"/>](https://imgsli.com/MjEwOTE4) | [<img src="imgs/Real_SGPN.png" height="128px">](https://imgsli.com/MjEwOTE3) | [<img src="imgs/Real_RestoreFormer.png" height="128px"/>](https://imgsli.com/MjEwOTE5) | [<img src="imgs/Real_DMDNet.png" height="128px"/>](https://imgsli.com/MjEwOTIw) |
 
-<p> Note: More visual comparisons of the tasks can be found in the main text and supplementary materials.
+<p> **Note**: More visual comparisons of the tasks can be found in the main text and supplementary materials.
   
 ---
