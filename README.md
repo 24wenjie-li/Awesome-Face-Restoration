@@ -8,5 +8,5 @@
   </p>
 </p>
 
-[<img src="imgs/Synthetic_DFDNet.png" height="128px"/>](https://imgsli.com/MjEwOTA4)  [<img src="imgs/Synthetic_GFPGAN.png" height="128px"/>](https://imgsli.com/MjEwOTA5)  [<img src="imgs/Synthetic_GCFSR.png" height="128px">](https://imgsli.com/MjEwOTEz)  [<img src="imgs/Synthetic_VGFR.png" height="128px"/>](https://imgsli.com/MjEwOTEy)  [<img src="imgs/Synthetic_CodeFormer.png" height="128px"/>](https://imgsli.com/MjEwOTEw) 
+|[<img src="imgs/Synthetic_DFDNet.png" height="128px"/>](https://imgsli.com/MjEwOTA4) | [<img src="imgs/Synthetic_GFPGAN.png" height="128px"/>](https://imgsli.com/MjEwOTA5) | [<img src="imgs/Synthetic_GCFSR.png" height="128px">](https://imgsli.com/MjEwOTEz) | [<img src="imgs/Synthetic_VGFR.png" height="128px"/>](https://imgsli.com/MjEwOTEy) | [<img src="imgs/Synthetic_CodeFormer.png" height="128px"/>](https://imgsli.com/MjEwOTEw) |
 
