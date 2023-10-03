@@ -31,6 +31,23 @@
 }
 ```
 
+## Table of contents
+<!-- - [Survey paper](#survey-paper)
+- [Table of contents](#table-of-contents) -->
+- [Non-Blind Tasks](#non-blind-face-restoration)
+- [Blind Tasks](#blind-face-restoration)
+- [joint Tasks](#benchmark-datasets)
+  - [Joint Face Completion](#Joint-Face-Completion)
+  - [Joint Face Frontalization](#Joint-Face-Frontalization)
+  - [Joint Face Alignment](#Joint-Face-Alignment)
+  - [Joint Face Recogntion](#Joint-Face-Recogntion)
+  - [Joint Face Illumination Compensation](#Joint-Face-Illumination-Compensation)
+  - [Joint Face Fairness](#Joint-Face-Fairness)
+  - [Joint 3D Face Reconstruction](#Joint-3D-Face-Reconstruction)
+- [Benchmark Datasets](#benchmark-datasets)
+  - [Recommended Datasets](#recommended-datasets)
+  - [All Datasets](#all-datasets)
+
 ## :e-mail: Contact
 
 If you have any question, please email `lewj2408@gmail.com`
