@@ -19,3 +19,18 @@
 :boom: **Note**: More visual comparisons can be found in the <a href="http://export.arxiv.org/pdf/2309.15490">Paper</a> and <a href="https://github.com/24wenjie-li/Awesome-Face-Restoration/blob/main/imgs/Supplementary.pdf">Supplementary Material</a>.
   
 ---
+
+## :clipboard: Citation
+
+```
+@article{li2023survey,
+  title={Survey on Deep Face Restoration: From Non-blind to Blind and Beyond},
+  author={Li, Wenjie and Wang, Mei and Zhang, Kai and Li, Juncheng and Li, Xiaoming and Zhang, Yuhang and Gao, Guangwei and Deng, Weihong and Lin, Chia-Wen},
+  journal={arXiv preprint arXiv:2309.15490},
+  year={2023}
+}
+```
+
+## :e-mail: Contact
+
+If you have any question, please email `lewj2408@gmail.com`
