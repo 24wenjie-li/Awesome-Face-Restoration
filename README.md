@@ -59,15 +59,15 @@
 |AAAI2015|<a href="https://ojs.aaai.org/index.php/AAAI/article/download/9795/9654">Learning Face Hallucination in the Wild|CNN-based|
 |ECCV2016|<a href="https://browse.arxiv.org/pdf/1607.05046v1.pdf">Deep cascaded bi-network for face hallucination|CNN-based|
 |ECCV2016|<a href="https://browse.arxiv.org/pdf/1707.00737.pdf">Ultra-resolving face images by discriminative generative networks|GAN-based|
-|ICCV2017|<a href="[https://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_Wavelet-SRNet_A_Wavelet-Based_ICCV_2017_paper.pdf]">Wavelet-SRNet: A Wavelet-based CNN for Multi-scale Face Super Resolution|Wavelet transform|
-|CVPR2017|<a href="[https://arxiv.org/abs/1708.03132]">Attention-Aware Face Hallucination via Deep Reinforcement Learning|Attention-based|
-|IJCAI2017|<a href="[https://arxiv.org/pdf/1708.00223.pdf]">Learning to Hallucinate Face Images via Component Generation and Enhancement|Prior-based|
-|ICASSP2017|<a href="[https://ieeexplore.ieee.org/document/8462170]">Face Hallucination Based on Key Parts Enhancement|CNN-based|
-|CVPR2018|<a href="[https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_FSRNet_End-to-End_Learning_CVPR_2018_paper.pdf]">FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors|Prior-based|
-|CVPRW2018|<a href="[https://arxiv.org/pdf/1811.02328.pdf]">Attribute Augmented Convolutional Neural Network for Face Hallucination|GAN-based|
-|ECCV2018|<a href="[https://arxiv.org/pdf/1811.02328.pdf]">Super-Identity Convolutional Neural Network for Face Hallucination|Prior-based|
-|ECCV2018|<a href="[https://openaccess.thecvf.com/content_ECCV_2018/papers/Xin_Yu_Face_Super-resolution_Guided_ECCV_2018_paper.pdf]">Face Super-resolution Guided by Facial Component Heatmaps|Prior-based|
-|IJCAI2018|<a href="[https://arxiv.org/pdf/1806.10726.pdf]">Deep CNN Denoiser and Multi-layer Neighbor Component Embedding for Face HallucinationDeep CNN Denoiser and Multi-layer Neighbor Component Embedding for Face Hallucination|CNN-based|
+|ICCV2017|<a href="https://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_Wavelet-SRNet_A_Wavelet-Based_ICCV_2017_paper.pdf">Wavelet-SRNet: A Wavelet-based CNN for Multi-scale Face Super Resolution|Wavelet transform|
+|CVPR2017|<a href="https://arxiv.org/abs/1708.03132">Attention-Aware Face Hallucination via Deep Reinforcement Learning|Attention-based|
+|IJCAI2017|<a href="https://arxiv.org/pdf/1708.00223.pdf">Learning to Hallucinate Face Images via Component Generation and Enhancement|Prior-based|
+|ICASSP2017|<a href="https://ieeexplore.ieee.org/document/8462170">Face Hallucination Based on Key Parts Enhancement|CNN-based|
+|CVPR2018|<a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_FSRNet_End-to-End_Learning_CVPR_2018_paper.pdf">FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors|Prior-based|
+|CVPRW2018|<a href="https://arxiv.org/pdf/1811.02328.pdf">Attribute Augmented Convolutional Neural Network for Face Hallucination|GAN-based|
+|ECCV2018|<a href="https://arxiv.org/pdf/1811.02328.pdf">Super-Identity Convolutional Neural Network for Face Hallucination|Prior-based|
+|ECCV2018|<a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Xin_Yu_Face_Super-resolution_Guided_ECCV_2018_paper.pdf">Face Super-resolution Guided by Facial Component Heatmaps|Prior-based|
+|IJCAI2018|<a href="https://arxiv.org/pdf/1806.10726.pdf">Deep CNN Denoiser and Multi-layer Neighbor Component Embedding for Face HallucinationDeep CNN Denoiser and Multi-layer Neighbor Component Embedding for Face Hallucination|CNN-based|
 
 
 
