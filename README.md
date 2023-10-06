@@ -54,12 +54,12 @@
  
 
 ## Non-Blind Tasks
-|Pub<div style="width:60px">|Paper<div style="width:600px">|Arch<div style="width:45px">|
+|Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
 |:---:|:----:|:----:|
 |ECCV18|<a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaoming_Li_Learning_Warped_Guidance_ECCV_2018_paper.pdf">Learning Warped Guidance for Blind Face Restoration|CNN|
 
 ## Blind Tasks
-|Pub<div style="width:60px">|Paper<div style="width:600px">|Arch<div style="width:45px">|
+|Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
 |:---:|:----:|:----:|
 |ECCV18|<a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaoming_Li_Learning_Warped_Guidance_ECCV_2018_paper.pdf">Learning Warped Guidance for Blind Face Restoration|CNN|
 
