@@ -36,7 +36,7 @@
 - [Table of contents](#table-of-contents) -->
 - [Non-Blind Tasks](#non-blind-face-restoration)
 - [Blind Tasks](#blind-face-restoration)
-- [joint Tasks](#benchmark-datasets)
+- [Joint Tasks](#joint-tasks)
   - [Joint Face Completion](#Joint-Face-Completion)
   - [Joint Face Frontalization](#Joint-Face-Frontalization)
   - [Joint Face Alignment](#Joint-Face-Alignment)
@@ -44,9 +44,24 @@
   - [Joint Face Illumination Compensation](#Joint-Face-Illumination-Compensation)
   - [Joint Face Fairness](#Joint-Face-Fairness)
   - [Joint 3D Face Reconstruction](#Joint-3D-Face-Reconstruction)
-- [Benchmark Datasets](#benchmark-datasets)
-  - [Recommended Datasets](#recommended-datasets)
-  - [All Datasets](#all-datasets)
+- [Perfermance](#perfermance)
+  - [Non-blind Face Super-Resoution]
+  - [Blind Face Restoration]
+  - [Blind Face Super-Resoution]
+- [Benchmarks](#benchmarks)
+  - [Datasets](#datasets)
+  - [Losses](#loss)
+ 
+
+## Non-blind Tasks
+|Pub<div style="width:60px">|Paper<div style="width:600px">|Links<div style="width:100px">|Arch<div style="width:45px">|
+|:---:|:----:|:----:|:----:|
+|ECCV18|Learning Warped Guidance for Blind Face Restoration|\[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaoming_Li_Learning_Warped_Guidance_ECCV_2018_paper.pdf)\]\[[code](https://github.com/csxmli2016/GFRNet)\]|CNN|
+
+## Blind Tasks
+|Pub<div style="width:60px">|Paper<div style="width:600px">|Links<div style="width:100px">|Arch<div style="width:45px">|
+|:---:|:----:|:----:|:----:|
+|ECCV18|\[Learning Warped Guidance for Blind Face Restoration(https://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaoming_Li_Learning_Warped_Guidance_ECCV_2018_paper.pdf)\]|\[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaoming_Li_Learning_Warped_Guidance_ECCV_2018_paper.pdf)\]\[[code](https://github.com/csxmli2016/GFRNet)\]|CNN|
 
 ## :e-mail: Contact
 
