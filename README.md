@@ -54,22 +54,15 @@
  
 
 ## Non-Blind Tasks
-|Pub<div style="width:60px">|Paper<div style="width:600px">|Links<div style="width:100px">|Arch<div style="width:45px">|
-|:---:|:----:|:----:|:----:|
-|ECCV18|Learning Warped Guidance for Blind Face Restoration|\[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaoming_Li_Learning_Warped_Guidance_ECCV_2018_paper.pdf)\]\[[code](https://github.com/csxmli2016/GFRNet)\]|CNN|
+|Pub<div style="width:60px">|Paper<div style="width:600px">|Arch<div style="width:45px">|
+|:---:|:----:|:----:|
+|ECCV18|<a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaoming_Li_Learning_Warped_Guidance_ECCV_2018_paper.pdf">Learning Warped Guidance for Blind Face Restoration|CNN|
 
 ## Blind Tasks
-|Pub<div style="width:60px">|Paper<div style="width:600px">|Links<div style="width:100px">|Arch<div style="width:45px">|
-|:---:|:----:|:----:|:----:|
-|ECCV18|<a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaoming_Li_Learning_Warped_Guidance_ECCV_2018_paper.pdf">Learning Warped Guidance for Blind Face Restoration|\[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaoming_Li_Learning_Warped_Guidance_ECCV_2018_paper.pdf)\]\[[code](https://github.com/csxmli2016/GFRNet)\]|CNN|
+|Pub<div style="width:60px">|Paper<div style="width:600px">|Arch<div style="width:45px">|
+|:---:|:----:|:----:|
+|ECCV18|<a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaoming_Li_Learning_Warped_Guidance_ECCV_2018_paper.pdf">Learning Warped Guidance for Blind Face Restoration|CNN|
 
 ## :e-mail: Contact
 
 If you have any question, please email `lewj2408@gmail.com`
-
-<details>
-<summary>statistics</summary>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TaoWangzj/Awesome-Face-Restoration)
-
-</details>
