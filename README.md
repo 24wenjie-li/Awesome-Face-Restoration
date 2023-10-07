@@ -86,6 +86,7 @@
 |MM2020|<a href="https://arxiv.org/abs/2005.00306">PCA-SRGAN: Incremental Orthogonal Projection Discrimination for Face Super-resolution|GAN-based|
 |ICASSP2020|<a href="https://ieeexplore.ieee.org/document/9053398">PARSING MAP GUIDED MULTI-SCALE ATTENTION NETWORK FOR FACE HALLUCINATION|Prior-based|
 |WACV2020|<a href="https://ieeexplore.ieee.org/document/9093399">Component Attention Guided Face Super-Resolution Network: CAGFace|Prior-based|
+|FG2020|<a href="https://ieeexplore.ieee.org/abstract/document/9320151">ATFaceGAN: Single Face Image Restoration and Recognition from Atmospheric Turbulence|GAN-based|
 |TBIOM2021|<a href="https://ieeexplore.ieee.org/document/9321495">Semantic-Driven Face Hallucination Based on Residual Network|Prior-based|
 |TBBLS2021|<a href="https://ieeexplore.ieee.org/document/9353687">E-ComSupResNet: Enhanced Face Super-Resolution Through Compact Network|CNN-based|
 |TCYB2021|<a href="https://ieeexplore.ieee.org/document/8617685">Sequential Gating Ensemble Network for Noise Robust Multiscale Face Restoration|CNN-based|
@@ -107,7 +108,10 @@
 |ICME2022|<a href="https://ieeexplore.ieee.org/document/9859616">RCNet: Recurrent Collaboration Network Guided by Facial Priors for Face Super-Resolution|Prior-based|
 |TMM2023|<a href="https://ieeexplore.ieee.org/document/10145603">An Efficient Latent Style Guided Transformer-CNN Framework for Face Super-Resolution|Attention-based|
 |TMM2023|<a href="https://ieeexplore.ieee.org/document/10145603">SCTANet: A Spatial Attention-Guided CNN-Transformer Aggregation Network for Deep Face Image Super-Resolution|Attention-based|
+|TMM2023|<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10207832">Exploiting Multi-scale Parallel Self-attention and Local Variation via Dual-branch Transformer-CNN Structure for Face Super-resolution|Attention-based|
 |TIP2023|<a href="https://ieeexplore.ieee.org/document/10087319">CTCNet: A CNN-Transformer Cooperation Network for Face Image Super-Resolution|Attention-based|
+|TIM2023|<a href="https://ieeexplore.ieee.org/document/10044127">Deep HyFeat Based Attention in Attention Model for Face Super-Resolution|GAN/Attention-based|
+|PR2023|<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320323002030">A Composite Network Model for Face Super-Resolution with Multi-Order Head Attention Facial Priors|Attention/Prior-based|
 |CVPR2023|<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Spatial-Frequency_Mutual_Learning_for_Face_Super-Resolution_CVPR_2023_paper.pdf">Spatial-Frequency Mutual Learning for Face Super-Resolution|Attention-based|
 |CVPR2023|<a href="https://browse.arxiv.org/pdf/2303.16491.pdf">Implicit Diffusion Models for Continuous Super-Resolution|Diffusion-based|
 |IJCAI2023|<a href="https://www.ijcai.org/proceedings/2023/0115.pdf">Learning Attention from Attention: Effcient Self-Refnement Transformer for Face Super-Resolution|Attention-based|
@@ -125,6 +129,7 @@
 |IJCV2020|<a href="https://arxiv.org/abs/2001.06822v2">Exploiting Semantics for Face Image Deblurring|Prior-based|
 |AAAI2020|<a href="https://ojs.aaai.org/index.php/AAAI/article/view/6818">Learning to Deblur Face Images via Sketch Synthesis|GAN-based|
 |TIP2023|<a href="https://ieeexplore.ieee.org/document/10036448">Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution>|CycleGAN-based|
+|WACV2023|<a href="https://openaccess.thecvf.com/content/WACV2023/papers/Nair_ATDDPM_Restoring_Faces_Degraded_by_Atmospheric_Turbulence_Using_Denoising_Diffusion_WACV_2023_paper.pdf">AT-DDPM: Restoring Faces degraded by Atmospheric Turbulence using Denoising Diffusion Probabilistic Models|Diffusion-based|
 
 
 ## :e-mail: Contact
