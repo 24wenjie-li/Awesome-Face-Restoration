@@ -79,13 +79,20 @@
 |TIP2020|<a href="https://browse.arxiv.org/pdf/2012.01211.pdf">Learning Spatial Attention for Face Super-Resolution|Attention-based|
 |TIP2020|<a href="https://ieeexplore.ieee.org/document/9082831/metrics#metrics">Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks|Prior-based|
 |TMM2020|<a href="https://ieeexplore.ieee.org/document/9055090">Learning Face Image Super-Resolution through Facial Semantic Attribute Transformation and Self-Attentive Structure Enhancement|Prior-based|
+|TNNLS2020|<a href="https://ieeexplore.ieee.org/document/9229100">Dual-Path Deep Fusion Network for Face Image Hallucination|CNN-based|
 |ECCV2020|<a href="https://browse.arxiv.org/pdf/2007.09454.pdf">Face Super-Resolution Guided by 3D Facial Priors|Prior-based|
 |CVPR2020|<a href="https://arxiv.org/abs/2003.13063">Deep Face Super-Resolution with Iterative Collaboration between Attentive Recovery and Landmark Estimation|Prior-based|
 |AAAI2020|<a href="https://browse.arxiv.org/pdf/2002.06518.pdf">Facial Attribute Capsules for Noise Face Super Resolution|Prior-based|
+|MM2020|<a href="https://arxiv.org/abs/2005.00306">PCA-SRGAN: Incremental Orthogonal Projection Discrimination for Face Super-resolution|GAN-based|
 |ICASSP2020|<a href="https://ieeexplore.ieee.org/document/9053398">PARSING MAP GUIDED MULTI-SCALE ATTENTION NETWORK FOR FACE HALLUCINATION|Prior-based|
 |WACV2020|<a href="https://ieeexplore.ieee.org/document/9093399">Component Attention Guided Face Super-Resolution Network: CAGFace|Prior-based|
-
-
+|TBIOM2021|<a href="https://ieeexplore.ieee.org/document/9321495">Semantic-Driven Face Hallucination Based on Residual Network|Prior-based|
+|TBBLS2021|<a href="https://ieeexplore.ieee.org/document/9353687">E-ComSupResNet: Enhanced Face Super-Resolution Through Compact Network|CNN-based|
+|TIP2021|<a href="https://ieeexplore.ieee.org/document/9395386">Features Guided Face Super-Resolution via Hybrid Model of Deep Learning and Random Forests|Prior-based|
+|MM2021|<a href="https://arxiv.org/abs/2010.11575">Face Hallucination via Split-Attention in Split-Attention Network|Attention-based|
+|ICME2021|<a href="https://ieeexplore.ieee.org/abstract/document/9428256">HEATMAP-AWARE PYRAMID FACE HALLUCINATION|Prior-based|
+|ICME2021|<a href="https://ieeexplore.ieee.org/document/9102926">SAAN: SEMANTIC ATTENTION ADAPTATION NETWORK FOR FACE SUPER-RESOLUTION|Prior-based|
+|ICME2021|<a href="https://ieeexplore.ieee.org/abstract/document/9428152">ORGAN-BRANCHED CNN FOR ROBUST FACE SUPER-RESOLUTION|GAN/Prior-based|
 
 
 
