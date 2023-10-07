@@ -34,7 +34,7 @@
 ## Table of contents
 <!-- - [Survey paper](#survey-paper)
 - [Table of contents](#table-of-contents) -->
-- [Non-Blind Tasks]
+- [Non-Blind Tasks](#non-blind-face-restoration)
 - [Blind Tasks](#blind-face-restoration)
 - [Joint Tasks](#joint-tasks)
   - [Joint Face Completion](#Joint-Face-Completion)
