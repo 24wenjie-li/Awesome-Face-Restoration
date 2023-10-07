@@ -189,6 +189,10 @@
 
 
 
+## Joint Tasks
+|Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
+|:---:|:----:|:----:|
+
 
 
 ## :e-mail: Contact
