@@ -49,7 +49,7 @@
   - [Blind Face Super-Resoution](#Blind-Face-Super-Resoution)
 - [Benchmarks](#benchmarks)
   - [Datasets](#datasets)
-  - [Losses](#loss)
+  - [Losses](#losses)
  
 
 ## Non-Blind Tasks
