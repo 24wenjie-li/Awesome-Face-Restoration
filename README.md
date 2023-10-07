@@ -230,6 +230,14 @@
   <img src="imgs/blind_per.png">
 </p>
 
+<p align="center">
+  <img src="imgs/blind_balance.png">
+</p>
+
+<p align="center">
+  <img src="imgs/blind_4.png">
+</p>
+
 ### Bind Face Super-Resoution
 <p align="center">
   <img src="imgs/blind_sr_per.png">
