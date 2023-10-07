@@ -157,15 +157,10 @@
 |TCSVT2022|<a href="https://ieeexplore.ieee.org/document/10044117">DEAR-GAN: Degradation-Aware Face Restoration with GAN Prior|GAN/Prior-based|
 |TPAMI2022|<a href="https://ieeexplore.ieee.org/abstract/document/9808408">GLEAN: Generative Latent Bank for Image Super-Resolution and Beyond|GAN/Prior-based|
 |TPAMI2022|<a href="https://arxiv.org/pdf/2210.08160.pdf">Learning Dual Memory Dictionaries for Blind Face Restoration|GAN/Prior-based|
-
 |Arxiv2022|<a href="https://arxiv.org/abs/2207.09790">FaceFormer: Scale-aware Blind Face Restoration with Transformers|GAN/Attention-based|
 |Arxiv2022|<a href="https://Arxiv.org/pdf/2206.13962.pdf">Multi-prior learning via neural architecture search for blind face restoration|GAN/Prior-based|
-
-
-
 |2022|Arxiv|Blind Face Restoration: Benchmark Datasets and a Baseline Model|\[[paper](https://Arxiv.org/pdf/2206.03697.pdf)\]\[[code](https://github.com/bitzpy/blind-face-restoration-benchmark-datasets-and-a-baseline-model)\]|ViT|
 |2022|Arxiv|Difface: Blind Face Restoration with Diffused Error Contraction|\[[paper](https://arxiv.org/pdf/2212.06512.pdf?trk=public_post_comment-text)\]\[[code](https://github.com/zsyOAOA/DifFace)\]|Diffusion|
-
 |TIP2023|<a href="https://ieeexplore.ieee.org/document/10036448">Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution>|CycleGAN-based|
 |WACV2023|<a href="https://openaccess.thecvf.com/content/WACV2023/papers/Nair_ATDDPM_Restoring_Faces_Degraded_by_Atmospheric_Turbulence_Using_Denoising_Diffusion_WACV_2023_paper.pdf">AT-DDPM: Restoring Faces degraded by Atmospheric Turbulence using Denoising Diffusion Probabilistic Models|Diffusion-based|
 
