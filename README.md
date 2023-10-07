@@ -221,11 +221,19 @@
 
 ## Perfermance
 ### Non-Bind Face Super-Resoution
+<p align="center">
+  <img src="imgs/non_blind_sr.png">
+</p>
 
 ### Bind Face Restoration
+<p align="center">
+  <img src="imgs/blind_per.png">
+</p>
 
 ### Bind Face Super-Resoution
-
+<p align="center">
+  <img src="imgs/blind_sr_per.png">
+</p>
 
 ## Benchmarks
 ### Datasets
