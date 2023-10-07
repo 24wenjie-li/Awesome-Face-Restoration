@@ -108,6 +108,7 @@
 |ICME2022|<a href="https://ieeexplore.ieee.org/document/9859616">RCNet: Recurrent Collaboration Network Guided by Facial Priors for Face Super-Resolution|Prior-based|
 |IJCB2022|<a href="https://browse.arxiv.org/pdf/2210.06002.pdf">Face Super-Resolution with Progressive Embedding of Multi-scale Face Priors|Prior-based|
 |ICME2022|<a href="https://ieeexplore.ieee.org/document/9859616">RCNet: Recurrent Collaboration Network Guided by Facial Priors for Face Super-Resolution|Prior-based|
+|Arxiv2022|<a href="https://browse.arxiv.org/pdf/2212.07352.pdf">Bi-Noising Diffusion: Towards Conditional Diffusion Models with Generative Restoration Priors|Diffusion-based|
 |TMM2023|<a href="https://ieeexplore.ieee.org/document/10145603">An Efficient Latent Style Guided Transformer-CNN Framework for Face Super-Resolution|Attention-based|
 |TMM2023|<a href="https://ieeexplore.ieee.org/document/10145603">SCTANet: A Spatial Attention-Guided CNN-Transformer Aggregation Network for Deep Face Image Super-Resolution|Attention-based|
 |TMM2023|<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10207832">Exploiting Multi-scale Parallel Self-attention and Local Variation via Dual-branch Transformer-CNN Structure for Face Super-resolution|Attention-based|
@@ -148,6 +149,7 @@
 |CVPR2022|<a href="https://Arxiv.org/pdf/2201.06374.pdf">RestoreFormer: High-Quality Blind Face Restoration <br> from Undegraded Key-Value Pairs|GAN/Attention/Prior-based|
 |CVPR2022|<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Blind_Face_Restoration_via_Integrating_Face_Shape_and_Generative_Priors_CVPR_2022_paper.pdf">Blind Face Restoration via Integrating Face Shape and Generative Priors|GAN/Prior-based|
 |CVPR2022|<a href="https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_Rethinking_Deep_Face_Restoration_CVPR_2022_paper.html">Rethinking Deep Face Restoration|GAN/Prior-based|
+|CVPR2022|<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/He_GCFSR_A_Generative_and_Controllable_Face_Super_Resolution_Method_Without_CVPR_2022_paper.pdf">GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors|GAN-based|
 |CVPRW2022|<a href="https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Dong_Unpaired_Face_Restoration_via_Learnable_Cross-Quality_Shift_CVPRW_2022_paper.pdf">Unpaired Face Restoration via Learnable Cross-Quality Shift|CycleGAN-based|
 |AAAI2022|<a href="https://arxiv.org/pdf/2203.08444.pdf">Panini-Net: GAN Prior Based Degradation-Aware Feature Interpolation for Face Restoration|GAN/Prior-based|
 |ECCV2022|<a href="https://Arxiv.org/pdf/2205.06803.pdf">VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder|GAN/Prior-based|
@@ -161,8 +163,20 @@
 |Arxiv2022|<a href="https://Arxiv.org/pdf/2206.13962.pdf">Multi-prior learning via neural architecture search for blind face restoration|GAN/Prior-based|
 |Arxiv2022|<a href="https://Arxiv.org/pdf/2206.03697.pdf">Blind Face Restoration: Benchmark Datasets and a Baseline Model|GAN/Attention-based|
 |Arxiv2022|<a href="https://arxiv.org/pdf/2212.06512.pdf">Difface: Blind Face Restoration with Diffused Error Contraction|Diffusion-based|
+|CVPR2023|<a href="https://arxiv.org/abs/2303.06885">DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration|Diffusion-based|
+|CVPRW2023|<a href="https://openaccess.thecvf.com/content/CVPR2023W/MULA/papers/Xie_TFRGAN_Leveraging_Text_Information_for_Blind_Face_Restoration_With_Extreme_CVPRW_2023_paper.pdf">TFRGAN: Leveraging Text Information for Blind Face Restoration with Extreme Degradation|GAN/Prior-based|
+|AAAI2023|<a href="https://arxiv.org/abs/2211.13524">GAN Prior Based Null-Space Learning for Consistent Super-resolution|-|
+|IJCAI2023|<a href="https://www.ijcai.org/proceedings/2023/128">Analyzing and Combating Attribute Bias for Face Restoration|GAN/Prior-based|
+|ICML2023|<a href="https://arxiv.org/abs/2212.00490">ZERO-SHOT IMAGE RESTORATION USING DENOISING DIFFUSION NULL-SPACE MODEL|Diffusion-based|
+|ICCV2023|<a href="https://arxiv.org/abs/2307.08996">Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond|Diffusion-based|
+|MM2023|<a href="https://arxiv.org/abs/2305.04517">DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration|Diffusion-based|
 |TIP2023|<a href="https://ieeexplore.ieee.org/document/10036448">Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution>|CycleGAN-based|
 |WACV2023|<a href="https://openaccess.thecvf.com/content/WACV2023/papers/Nair_ATDDPM_Restoring_Faces_Degraded_by_Atmospheric_Turbulence_Using_Denoising_Diffusion_WACV_2023_paper.pdf">AT-DDPM: Restoring Faces degraded by Atmospheric Turbulence using Denoising Diffusion Probabilistic Models|Diffusion-based|
+|Arxiv2023|<a href="https://browse.arxiv.org/pdf/2303.08714.pdf">ResDiff: Combining CNN and Diffusion Model for Image Super-Resolution|Diffusion-based|
+|Arxiv2023|<a href="https://browse.arxiv.org/pdf/2308.15070.pdf">DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior|Diffusion-based|
+|Arxiv2023|<a href="https://browse.arxiv.org/pdf/2305.07015.pdf">Exploiting Diffusion Prior for Real-World Image Super-Resolution|Diffusion-based|
+
+
 
 
 ## :e-mail: Contact
