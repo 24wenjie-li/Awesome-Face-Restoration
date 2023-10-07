@@ -33,8 +33,8 @@
 ## Table of contents
 <!-- - [Survey paper](#survey-paper)
 - [Table of contents](#table-of-contents) -->
-- [Non-Blind Tasks](#non-blind-face-restoration)
-- [Blind Tasks](#blind-face-restoration)
+- [Non-Blind Tasks](#non-blind-tasks)
+- [Blind Tasks](#blind-tasks)
 - [Joint Tasks](#joint-tasks)
   - [Joint Face Completion](#Joint-Face-Completion)
   - [Joint Face Frontalization](#Joint-Face-Frontalization)
@@ -170,7 +170,7 @@
 |Arxiv2022|<a href="Face Deblurring Based on Separable Normalization and Adaptive Denormalization">Face Deblurring Based on Separable Normalization and Adaptive Denormalization|Prior/GAN-based|
 |CVPR2023|<a href="https://arxiv.org/abs/2303.06885">DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration|Diffusion-based|
 |CVPRW2023|<a href="https://openaccess.thecvf.com/content/CVPR2023W/MULA/papers/Xie_TFRGAN_Leveraging_Text_Information_for_Blind_Face_Restoration_With_Extreme_CVPRW_2023_paper.pdf">TFRGAN: Leveraging Text Information for Blind Face Restoration with Extreme Degradation|GAN/Prior-based|
-|AAAI2023|<a href="https://arxiv.org/abs/2211.13524">GAN Prior Based Null-Space Learning for Consistent Super-resolution|-|
+|AAAI2023|<a href="https://arxiv.org/abs/2211.13524">GAN Prior Based Null-Space Learning for Consistent Super-resolution|GAN-based|
 |IJCAI2023|<a href="https://www.ijcai.org/proceedings/2023/128">Analyzing and Combating Attribute Bias for Face Restoration|GAN/Prior-based|
 |ICML2023|<a href="https://arxiv.org/abs/2212.00490">ZERO-SHOT IMAGE RESTORATION USING DENOISING DIFFUSION NULL-SPACE MODEL|Diffusion-based|
 |ICCV2023|<a href="https://arxiv.org/abs/2307.08996">Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond|Diffusion-based|
@@ -192,6 +192,31 @@
 ### Joint Face Completion
 |Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
 |:---:|:----:|:----:|
+
+### Joint Face Frontalization
+|Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
+|:---:|:----:|:----:|
+
+### Joint Face Alignment
+|Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
+|:---:|:----:|:----:|
+
+### Joint Face Recogntion
+|Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
+|:---:|:----:|:----:|
+
+### Joint Face Illumination Compensation
+|Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
+|:---:|:----:|:----:|
+
+### Joint Face Fairness
+|Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
+|:---:|:----:|:----:|
+
+### Joint Face 3D Face Reconstruction
+|Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
+|:---:|:----:|:----:|
+
 
 
 ## Perfermance
