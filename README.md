@@ -47,6 +47,7 @@
   - [Non-Bind Face Super-Resoution](#non-blind-face-super-resoution)
   - [Blind Face Restoration](#blind-face-restoration)
   - [Blind Face Super-Resoution](#blind-face-super-resoution)
+  - [Joint Face Restoration](#joint-Face-restoration)
 - [Benchmarks](#benchmarks)
   - [Datasets](#datasets)
   - [Losses](#losses)
@@ -242,6 +243,9 @@
 <p align="center">
   <img src="imgs/blind_4.png">
 </p>
+
+### Joint Face Restoration
+:boom: **Note**: It can be found in the <a href="https://github.com/24wenjie-li/Awesome-Face-Restoration/blob/main/imgs/Supplementary.pdf">Supplementary Material</a>.
 
 ## Benchmarks
 ### Datasets
