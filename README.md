@@ -77,8 +77,7 @@
 |IJCV2019|<a href="https://arxiv.org/pdf/1811.09019.pdf">Joint Face Hallucination and Deblurring via Structure Generation and Detail Enhancement|Prior-based|
 |PR2019|<a href="https://www.sciencedirect.com/science/article/abs/pii/S003132031930202X">Face hallucination from low quality images using definition-scalable inference|Frequency-based|
 |TIP2020|<a href="https://browse.arxiv.org/pdf/2012.01211.pdf">Learning Spatial Attention for Face Super-Resolution|Attention-based|
-|TIP2020|<a href="https://ieeexplore.ieee.org/document/9082831/metrics#metrics">Deblurring Face Images using Uncertainty Guided
-Multi-Stream Semantic Networks|Prior-based|
+|TIP2020|<a href="https://ieeexplore.ieee.org/document/9082831/metrics#metrics">Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks|Prior-based|
 |TMM2020|<a href="https://ieeexplore.ieee.org/document/9055090">Learning Face Image Super-Resolution through Facial Semantic Attribute Transformation and Self-Attentive Structure Enhancement|Prior-based|
 |ECCV2020|<a href="https://browse.arxiv.org/pdf/2007.09454.pdf">Face Super-Resolution Guided by 3D Facial Priors|Prior-based|
 |CVPR2020|<a href="https://arxiv.org/abs/2003.13063">Deep Face Super-Resolution with Iterative Collaboration between Attentive Recovery and Landmark Estimation|Prior-based|
