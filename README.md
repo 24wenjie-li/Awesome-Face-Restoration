@@ -82,6 +82,7 @@
 |TNNLS2020|<a href="https://ieeexplore.ieee.org/document/9229100">Dual-Path Deep Fusion Network for Face Image Hallucination|CNN-based|
 |ECCV2020|<a href="https://browse.arxiv.org/pdf/2007.09454.pdf">Face Super-Resolution Guided by 3D Facial Priors|Prior-based|
 |CVPR2020|<a href="https://arxiv.org/abs/2003.13063">Deep Face Super-Resolution with Iterative Collaboration between Attentive Recovery and Landmark Estimation|Prior-based|
+|CVPR2020|<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Karnewar_MSG-GAN_Multi-Scale_Gradients_for_Generative_Adversarial_Networks_CVPR_2020_paper.pdf">MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks|GAN-based|
 |AAAI2020|<a href="https://browse.arxiv.org/pdf/2002.06518.pdf">Facial Attribute Capsules for Noise Face Super Resolution|Prior-based|
 |MM2020|<a href="https://arxiv.org/abs/2005.00306">PCA-SRGAN: Incremental Orthogonal Projection Discrimination for Face Super-resolution|GAN-based|
 |ICASSP2020|<a href="https://ieeexplore.ieee.org/document/9053398">PARSING MAP GUIDED MULTI-SCALE ATTENTION NETWORK FOR FACE HALLUCINATION|Prior-based|
@@ -92,6 +93,7 @@
 |TCYB2021|<a href="https://ieeexplore.ieee.org/document/8617685">Sequential Gating Ensemble Network for Noise Robust Multiscale Face Restoration|CNN-based|
 |TIP2021|<a href="https://ieeexplore.ieee.org/document/9395386">Features Guided Face Super-Resolution via Hybrid Model of Deep Learning and Random Forests|Prior-based|
 |TPAMI2021|<a href="https://ieeexplore.ieee.org/document/9591403">Face restoration via plug-and-play 3d facial priors|Prior-based|
+|CVPR2021|<a href="https://browse.arxiv.org/pdf/2012.00739.pdf">GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolutio|GAN/Prior-based|
 |MM2021|<a href="https://arxiv.org/abs/2010.11575">Face Hallucination via Split-Attention in Split-Attention Network|Attention-based|
 |ICME2021|<a href="https://ieeexplore.ieee.org/abstract/document/9428256">HEATMAP-AWARE PYRAMID FACE HALLUCINATION|Prior-based|
 |ICME2021|<a href="https://ieeexplore.ieee.org/document/9102926">SAAN: SEMANTIC ATTENTION ADAPTATION NETWORK FOR FACE SUPER-RESOLUTION|Prior-based|
@@ -119,15 +121,51 @@
 ## Blind Tasks
 |Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
 |:---:|:----:|:----:|
+|CVPRW2017|<a href="https://browse.arxiv.org/pdf/1704.08772.pdf">Deep Face Deblurring|CNN-based|
+|ECCV2018|<a href="https://vcg.seas.harvard.edu/publications/learning-to-super-resolve-blurry-face-and-text-images/paper">Learning to Super-Resolve Blurry Face and Text Images|GAN-based|
 |ECCV2018|<a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaoming_Li_Learning_Warped_Guidance_ECCV_2018_paper.pdf">Learning Warped Guidance for Blind Face Restoration|CNN-based|
 |ECCV2018|<a href="https://arxiv.org/abs/1705.09966">Attribute-guided face generation using conditional cyclegan|CycleGAN-based|
 |ECCV2018|<a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Adrian_Bulat_To_learn_image_ECCV_2018_paper.pdf">To learn image super-resolution, use a GAN to learn how to do image degradation first|CycleGAN-based|
 |CVPR2018|<a href="https://browse.arxiv.org/pdf/1712.02765.pdf">Super-fan: Integrated facial landmark localization and super-resolution of real-world low resolution faces in arbitrary poses with gans|Prior/GAN-based|
 |CVPR2018|<a href="https://arxiv.org/abs/1803.03345">Exploiting Semantics for Face Image Deblurring|Prior-based|
 |CVPRW2018|<a href="https://ieeexplore.ieee.org/document/8575269">Learning Face Deblurring Fast and Wide|Prior-based|
+|ICCV2019|<a href="https://ieeexplore.ieee.org/document/9008540">DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better|GAN-based|
 |ICIP2019|<a href="https://ieeexplore.ieee.org/document/8803393">GUIDED CYCLEGAN VIA SEMI-DUAL OPTIMAL TRANSPORT FOR PHOTO-REALISTIC FACE SUPER-RESOLUTION|CycleGAN-based|
 |IJCV2020|<a href="https://arxiv.org/abs/2001.06822v2">Exploiting Semantics for Face Image Deblurring|Prior-based|
 |AAAI2020|<a href="https://ojs.aaai.org/index.php/AAAI/article/view/6818">Learning to Deblur Face Images via Sketch Synthesis|GAN-based|
+|ECCV2020|<a href="https://Arxiv.org/pdf/2008.00418">Blind Face Restoration via Deep Multi-scale Component Dictionaries|GAN/Prior-based|
+|CVPR2020|<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Enhanced_Blind_Face_Restoration_With_Multi-Exemplar_Images_and_Adaptive_Spatial_CVPR_2020_paper.pdf">Enhanced Blind Face Restoration with Multi-Exemplar Images and Adaptive Spatial Feature Fusion|GAN/Prior-based|
+|CVPR2020|<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Gu_Image_Processing_Using_Multi-Code_GAN_Prior_CVPR_2020_paper.pdf">Image Processing Using Multi-Code GAN Prior|GAN/Prior-based|
+|MM2020|<a href="https://github.com/Lotayou/Face-Renovation">HiFaceGAN: Face Renovation via Collaborative Suppression and Replenishment|GAN-based|
+|Arxiv2020|<a href="https://arxiv.org/abs/1711.09515">DeepDeblur: Fast one-step blurry face images restoration|GAN-based|
+|CVPR2021|<a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Progressive_Semantic-Aware_Style_Transformation_for_Blind_Face_Restoration_CVPR_2021_paper.pdf">Progressive Semantic-Aware Style Transformation for Blind Face Restoration|GAN-based|
+|CVPR2021|<a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Progressive_Semantic-Aware_Style_Transformation_for_Blind_Face_Restoration_CVPR_2021_paper.pdf">Progressive Semantic-Aware Style Transformation for Blind Face Restoration|GAN-based|
+|CVPR2021|<a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Progressive_Semantic-Aware_Style_Transformation_for_Blind_Face_Restoration_CVPR_2021_paper.pdf">Progressive Semantic-Aware Style Transformation for Blind Face Restoration|GAN/Prior-based|
+|CVPR2021|<a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Towards_Real-World_Blind_Face_Restoration_With_Generative_Facial_Prior_CVPR_2021_paper.pdf">Towards Real-World Blind Face Restoration with Generative Facial Prior|GAN/Prior-based|
+|CVPR2021|<a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_GAN_Prior_Embedded_Network_for_Blind_Face_Restoration_in_the_CVPR_2021_paper.pdf">GAN Prior Embedded Network for Blind Face Restoration in the Wild|GAN/Prior-based|
+|Arxiv2021|<a href="https://arxiv.org/abs/2110.01033">Universal Face Restoration With Memorized Modulation|GAN-based|
+|Arxiv2021|<a href="https://arxiv.org/abs/2010.05508">Implicit Subspace Prior Learning for Dual-Blind Face Restoration|GAN-based|
+|CVPR2022|<a href="https://Arxiv.org/pdf/2201.06374.pdf">RestoreFormer: High-Quality Blind Face Restoration <br> from Undegraded Key-Value Pairs|GAN/Attention/Prior-based|
+|CVPR2022|<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Blind_Face_Restoration_via_Integrating_Face_Shape_and_Generative_Priors_CVPR_2022_paper.pdf">Blind Face Restoration via Integrating Face Shape and Generative Priors|GAN/Prior-based|
+|CVPR2022|<a href="https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_Rethinking_Deep_Face_Restoration_CVPR_2022_paper.html">Rethinking Deep Face Restoration|GAN/Prior-based|
+|CVPRW2022|<a href="https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Dong_Unpaired_Face_Restoration_via_Learnable_Cross-Quality_Shift_CVPRW_2022_paper.pdf">Unpaired Face Restoration via Learnable Cross-Quality Shift|CycleGAN-based|
+|AAAI2022|<a href="https://arxiv.org/pdf/2203.08444.pdf">Panini-Net: GAN Prior Based Degradation-Aware Feature Interpolation for Face Restoration|GAN/Prior-based|
+|ECCV2022|<a href="https://Arxiv.org/pdf/2205.06803.pdf">VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder|GAN/Prior-based|
+|ECCV2022|<a href="https://arxiv.org/pdf/2210.00752v2.pdf">From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution|GAN-based|
+|Nips2022|<a href="https://Arxiv.org/pdf/2206.11253.pdf">Towards Robust Blind Face Restoration with Codebook Lookup Transformer|GAN/Prior-based|
+|ICME2022|<a href="https://ieeexplore.ieee.org/document/9859870">FEATURE-GUIDED BLIND FACE RESTORATION WITH GAN PRIOR|GAN/Prior-based|
+|TCSVT2022|<a href="https://ieeexplore.ieee.org/document/10044117">DEAR-GAN: Degradation-Aware Face Restoration with GAN Prior|GAN/Prior-based|
+|TPAMI2022|<a href="https://ieeexplore.ieee.org/abstract/document/9808408">GLEAN: Generative Latent Bank for Image Super-Resolution and Beyond|GAN/Prior-based|
+|TPAMI2022|<a href="https://arxiv.org/pdf/2210.08160.pdf">Learning Dual Memory Dictionaries for Blind Face Restoration|GAN/Prior-based|
+
+|Arxiv2022|<a href="https://arxiv.org/abs/2207.09790">FaceFormer: Scale-aware Blind Face Restoration with Transformers|GAN/Attention-based|
+|Arxiv2022|<a href="https://Arxiv.org/pdf/2206.13962.pdf">Multi-prior learning via neural architecture search for blind face restoration|GAN/Prior-based|
+
+
+
+|2022|Arxiv|Blind Face Restoration: Benchmark Datasets and a Baseline Model|\[[paper](https://Arxiv.org/pdf/2206.03697.pdf)\]\[[code](https://github.com/bitzpy/blind-face-restoration-benchmark-datasets-and-a-baseline-model)\]|ViT|
+|2022|Arxiv|Difface: Blind Face Restoration with Diffused Error Contraction|\[[paper](https://arxiv.org/pdf/2212.06512.pdf?trk=public_post_comment-text)\]\[[code](https://github.com/zsyOAOA/DifFace)\]|Diffusion|
+
 |TIP2023|<a href="https://ieeexplore.ieee.org/document/10036448">Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution>|CycleGAN-based|
 |WACV2023|<a href="https://openaccess.thecvf.com/content/WACV2023/papers/Nair_ATDDPM_Restoring_Faces_Degraded_by_Atmospheric_Turbulence_Using_Denoising_Diffusion_WACV_2023_paper.pdf">AT-DDPM: Restoring Faces degraded by Atmospheric Turbulence using Denoising Diffusion Probabilistic Models|Diffusion-based|
 
