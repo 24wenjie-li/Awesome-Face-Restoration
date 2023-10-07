@@ -44,7 +44,7 @@
   - [Joint Face Fairness](#Joint-Face-Fairness)
   - [Joint 3D Face Reconstruction](#Joint-3D-Face-Reconstruction)
 - [Perfermance](#perfermance)
-  - [Non-Bind Face Super-Resoution](#Non-blind-Face-Super-Resoution)
+  - [Non-Bind Face Super-Resoution](#Non-Blind-Face-Super-Resoution)
   - [Blind Face Restoration](#Blind-Face-Restoration)
   - [Blind Face Super-Resoution](#Blind-Face-Super-Resoution)
 - [Benchmarks](#benchmarks)
