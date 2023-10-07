@@ -110,8 +110,7 @@
 |TIP2023|<a href="https://ieeexplore.ieee.org/document/10087319">CTCNet: A CNN-Transformer Cooperation Network for Face Image Super-Resolution|Attention-based|
 |CVPR2023|<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Spatial-Frequency_Mutual_Learning_for_Face_Super-Resolution_CVPR_2023_paper.pdf">Spatial-Frequency Mutual Learning for Face Super-Resolution|Attention-based|
 |CVPR2023|<a href="https://browse.arxiv.org/pdf/2303.16491.pdf">Implicit Diffusion Models for Continuous Super-Resolution|Diffusion-based|
-|IJCAI2023|<a href="https://www.ijcai.org/proceedings/2023/0115.pdf">Learning Attention from Attention: Effcient Self-Refnement Transformer for
-Face Super-Resolution|Attention-based|
+|IJCAI2023|<a href="https://www.ijcai.org/proceedings/2023/0115.pdf">Learning Attention from Attention: Effcient Self-Refnement Transformer for Face Super-Resolution|Attention-based|
 
 ## Blind Tasks
 |Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
