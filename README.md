@@ -34,7 +34,7 @@
 ## Table of contents
 <!-- - [Survey paper](#survey-paper)
 - [Table of contents](#table-of-contents) -->
-- [Non-Blind Tasks](#non-blind-face-restoration)
+- [Non-Blind Tasks]
 - [Blind Tasks](#blind-face-restoration)
 - [Joint Tasks](#joint-tasks)
   - [Joint Face Completion](#Joint-Face-Completion)
@@ -190,8 +190,23 @@
 
 
 ## Joint Tasks
+### Joint Face Completion
 |Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
 |:---:|:----:|:----:|
+
+
+## Perfermance
+### Non-Bind Face Super-Resoution
+
+### Bind Face Restoration
+
+### Bind Face Super-Resoution
+
+
+## Benchmarks
+### Datasets
+
+### Losses
 
 
 
