@@ -98,6 +98,7 @@
 |ICME2021|<a href="https://ieeexplore.ieee.org/abstract/document/9428256">HEATMAP-AWARE PYRAMID FACE HALLUCINATION|Prior-based|
 |ICME2021|<a href="https://ieeexplore.ieee.org/document/9102926">SAAN: SEMANTIC ATTENTION ADAPTATION NETWORK FOR FACE SUPER-RESOLUTION|Prior-based|
 |ICME2021|<a href="https://ieeexplore.ieee.org/abstract/document/9428152">ORGAN-BRANCHED CNN FOR ROBUST FACE SUPER-RESOLUTION|GAN/Prior-based|
+|ICME2021|<a href="https://ieeexplore.ieee.org/abstract/document/9428360">FACE SUPER-RESOLUTION THROUGH DUAL-IDENTITY CONSTRAINT|Prior-based|
 |ICIP2021|<a href="https://ieeexplore.ieee.org/abstract/document/9506610">Progressive Face Super-Resolution with Non-Parametric Facial Prior Enhancement|Prior-based|
 |TCSVT2022|<a href="https://ieeexplore.ieee.org/document/9964277">Progressive Face Super-Resolution with Non-Parametric Facial Prior Enhancement|Attention-based|
 |TCSVT2022|<a href="https://ieeexplore.ieee.org/abstract/document/9792407">Propagating Facial Prior Knowledge for Multitask Learning in Face Super-Resolution|Prior-based|
@@ -133,6 +134,7 @@
 |CVPR2018|<a href="https://browse.arxiv.org/pdf/1712.02765.pdf">Super-fan: Integrated facial landmark localization and super-resolution of real-world low resolution faces in arbitrary poses with gans|Prior/GAN-based|
 |CVPR2018|<a href="https://arxiv.org/abs/1803.03345">Exploiting Semantics for Face Image Deblurring|Prior-based|
 |CVPRW2018|<a href="https://ieeexplore.ieee.org/document/8575269">Learning Face Deblurring Fast and Wide|Prior-based|
+|CVPRW2018|<a href="https://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Jin_Learning_Face_Deblurring_CVPR_2018_paper.html">Learning Face Deblurring Fast and Wide|CNN-based|
 |ICCV2019|<a href="https://ieeexplore.ieee.org/document/9008540">DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better|GAN-based|
 |ICIP2019|<a href="https://ieeexplore.ieee.org/document/8803393">GUIDED CYCLEGAN VIA SEMI-DUAL OPTIMAL TRANSPORT FOR PHOTO-REALISTIC FACE SUPER-RESOLUTION|CycleGAN-based|
 |IJCV2020|<a href="https://arxiv.org/abs/2001.06822v2">Exploiting Semantics for Face Image Deblurring|Prior-based|
@@ -160,6 +162,7 @@
 |ECCV2022|<a href="https://arxiv.org/pdf/2210.00752v2.pdf">From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution|GAN-based|
 |Nips2022|<a href="https://Arxiv.org/pdf/2206.11253.pdf">Towards Robust Blind Face Restoration with Codebook Lookup Transformer|GAN/Prior-based|
 |ICME2022|<a href="https://ieeexplore.ieee.org/document/9859870">FEATURE-GUIDED BLIND FACE RESTORATION WITH GAN PRIOR|GAN/Prior-based|
+|WACV2022|<a href="https://ieeexplore.ieee.org/document/9707072">Deep Feature Prior Guided Face Deblurring|GAN/Prior-based|
 |TCSVT2022|<a href="https://ieeexplore.ieee.org/document/10044117">DEAR-GAN: Degradation-Aware Face Restoration with GAN Prior|GAN/Prior-based|
 |TPAMI2022|<a href="https://ieeexplore.ieee.org/abstract/document/9808408">GLEAN: Generative Latent Bank for Image Super-Resolution and Beyond|GAN/Prior-based|
 |TPAMI2022|<a href="https://arxiv.org/pdf/2210.08160.pdf">Learning Dual Memory Dictionaries for Blind Face Restoration|GAN/Prior-based|
@@ -179,6 +182,8 @@
 |MM2023|<a href="https://arxiv.org/abs/2305.04517">DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration|Diffusion-based|
 |Nips2023|<a href="https://browse.arxiv.org/pdf/2309.10810.pdf">PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance|Diffusion-based|
 |TIP2023|<a href="https://ieeexplore.ieee.org/document/10036448">Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution>|CycleGAN-based|
+|TPAMI2023|<a href="https://ieeexplore.ieee.org/document/9744329">Old Photo Restoration via Deep Latent Space Translation|GAN/Prior-based|
+|TPAMI2023|<a href="https://ieeexplore.ieee.org/document/9730053">Multi-Modality Deep Restoration of Extremely Compressed Face Videos|GAN/Prior-based|
 |WACV2023|<a href="https://openaccess.thecvf.com/content/WACV2023/papers/Nair_ATDDPM_Restoring_Faces_Degraded_by_Atmospheric_Turbulence_Using_Denoising_Diffusion_WACV_2023_paper.pdf">AT-DDPM: Restoring Faces degraded by Atmospheric Turbulence using Denoising Diffusion Probabilistic Models|Diffusion-based|
 |Arxiv2023|<a href="https://browse.arxiv.org/pdf/2303.08714.pdf">ResDiff: Combining CNN and Diffusion Model for Image Super-Resolution|Diffusion-based|
 |Arxiv2023|<a href="https://browse.arxiv.org/pdf/2308.15070.pdf">DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior|Diffusion-based|
@@ -194,31 +199,73 @@
 ### Joint Face Completion
 |Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
 |:---:|:----:|:----:|
+|ICB2019|<a href="https://browse.arxiv.org/pdf/1906.02858.pdf">Does Generative Face Completion Help Face Recognition?|Prior-based|
+|ICME2019|<a href="https://ieeexplore.ieee.org/document/8784896">Facial Image Inpainting Using Multi-level Generative Network|CNN-based|
+|FG2020|<a href="https://ieeexplore.ieee.org/abstract/document/9320168">IF-GAN: Generative Adversarial Network for Identity Preserving Facial Image Inpainting and Frontalization|GAN-based|
+|TBOIM2020|<a href="https://ieeexplore.ieee.org/document/8890717">FCSR-GAN: Joint Face Completion and Super-Resolution via Multi-Task Learning|GAN/Prior-based|
+|TCSVT2020|<a href="https://ieeexplore.ieee.org/document/8963643">Occluded Face Recognition in the Wild by Identity-Diversity Inpainting|GAN/Prior-based|
+|ICIP2022|<a href="https://ieeexplore.ieee.org/document/9956183">Swin-CasUNet: Cascaded U-Net with Swin Transformer for Masked Face Restoration|Attention-based|
+|WACV2022|<a href="https://arxiv.org/abs/2110.10395">3DFaceFill: An Analysis-By-Synthesis Approach to Face Completion|Prior/GAN-based|
+|TMM2022|<a href="https://ieeexplore.ieee.org/abstract/document/9991050">Pluralistic Face Inpainting with Transformation of Attribute Information|GAN/Prior-based|
+|TMM2023|<a href="https://ieeexplore.ieee.org/abstract/document/9695189">FT-TDR: Frequency-Guided Transformer and Top-Down Refinement Network for Blind Face Inpainting|GAN/Prior-based|
+|TMM2023|<a href="https://ieeexplore.ieee.org/document/10032643">JDSR-GAN: Constructing an Efficient Joint Learning Network for Masked Face Super-Resolution|GAN/Prior-based|
+|TCSVT2022|<a href="https://ieeexplore.ieee.org/document/9625034">SwapInpaint: Identity-Specific Face Inpainting With Identity Swapping|GAN/Prior-based|
+|ICASSP2023|<a href="https://ieeexplore.ieee.org/document/10097082">Fine-Grained Blind Face Inpainting with 3D Face Component Disentanglement|Prior-based|
+|TIP2023|<a href="https://ieeexplore.ieee.org/document/10036452">Deep Face Video Inpainting via UV Mapping|Attention/GAN/Prior-based|
+
+
 
 ### Joint Face Frontalization
 |Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
 |:---:|:----:|:----:|
+|TPAMI2019|<a href="https://ieeexplore.ieee.org/document/8704962">Can We See More? Joint Frontalization and Hallucination of Unaligned Tiny Faces|GAN-based|
+|TCSVT2021|<a href="https://ieeexplore.ieee.org/document/9427073">Joint Face Image Restoration and Frontalization for Recognition|GAN/Prior-based|
+|TIP2022|<a href="https://ieeexplore.ieee.org/document/9318504">Face Hallucination With Finishing Touches|GAN/Prior-based|
+|TCSVT2022|<a href="https://ieeexplore.ieee.org/document/9535188">Simultaneous Face Completion and Frontalization via Mask Guided Two-Stage GAN|GAN/Attention-based|
+
 
 ### Joint Face Alignment
 |Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
 |:---:|:----:|:----:|
+|AAAI2017|<a href="https://ojs.aaai.org/index.php/AAAI/article/view/11206">Face Hallucination with Tiny Unaligned Images by Transformative Discriminative Neural Networks|GAN-based|
+|CVPR2017|<a href="https://ieeexplore.ieee.org/document/8100053">Hallucinating Very Low-Resolution Unaligned and Noisy Face Images by Transformative Discriminative Autoencoders∗|GAN-based|
+|CVPR2018|<a href="https://ieeexplore.ieee.org/abstract/document/8713923">Semantic Face Hallucination: Super-Resolving Very Low-Resolution Face Images with Supplementary Attributes|GAN-based|
+|AAAI2020|<a href="https://arxiv.org/abs/1911.08566v1">Joint Super-Resolution and Alignment of Tiny Faces|Prior-based|
+|IJCV2020|<a href="https://link.springer.com/article/10.1007/s11263-019-01254-5">Hallucinating Unaligned Face Images by Multiscale Transformative Discriminative Networks|GAN-based|
+
 
 ### Joint Face Recogntion
 |Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
 |:---:|:----:|:----:|
+|ECCV2018|<a href="https://arxiv.org/pdf/1811.02328.pdf">Super-Identity Convolutional Neural Network for Face Hallucination|Prior-based|
+|ICIP2019|<a href="https://ieeexplore.ieee.org/document/8803782">Low-Resolution Face Recognition Based on Identity-Preserved Face Hallucination|CNN-based|
+|TIP2019|<a href="https://ieeexplore.ieee.org/document/8751141">SiGAN: Siamese Generative Adversarial Network for Identity-Preserving Face Hallucination|GAN/Prior-based|
+|TPAMI2020|<a href="https://ieeexplore.ieee.org/document/8941241">Adversarial Cross-Spectral Face Completion for NIR-VIS Face Recognition|GAN-based|
+
 
 ### Joint Face Illumination Compensation
 |Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
 |:---:|:----:|:----:|
+|CVPR2020|<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Copy_and_Paste_GAN_Face_Hallucination_From_Shaded_Thumbnails_CVPR_2020_paper.pdf">Copy and Paste GAN: Face Hallucination from Shaded Thumbnails|CNN-based|
+|CVPR2020|<a href="https://arxiv.org/abs/2108.13584">From Less to More: Spectral Splitting and Aggregation Network for Hyperspectral Face Super-Resolution|CNN-based|
+|Arxiv2021|<a href="https://browse.arxiv.org/pdf/2105.06528.pdf">Network Architecture Search for Face Enhancement|CNN-based|
+|TPAMI2021|<a href="https://ieeexplore.ieee.org/document/9361225">Recursive Copy and Paste GAN: Face Hallucination From Shaded Thumbnails|GAN-based|
+
 
 ### Joint Face Fairness
 |Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
 |:---:|:----:|:----:|
+|ICIP2021|<a href="https://arxiv.org/abs/2105.14609">Identity and Attribute Preserving Thumbnail Upscaling|Prior-based|
+|ICML2021|<a href="https://arxiv.org/abs/2106.12182">Fairness for image generation with uncertain sensitive attributes|CNN-based|
+|TPAMI2022|<a href="https://arxiv.org/abs/2105.14609">EDFace-Celeb-1M: Benchmarking Face Hallucination With a Million-Scale Dataset|Dataset|
+|Arxiv2022|<a href="https://browse.arxiv.org/pdf/2206.03697.pdf">Blind Face Restoration: Benchmark Datasets and a Baseline Model|Dataset|
+
+
 
 ### Joint Face 3D Face Reconstruction
 |Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
 |:---:|:----:|:----:|
-
+|CVPR2022|<a href="https://ieeexplore.ieee.org/document/9879671">https://ieeexplore.ieee.org/document/9879671|Prior/GAN-based|
 
 
 ## Perfermance
