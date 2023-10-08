@@ -307,20 +307,20 @@
 
 ## Benchmarks
 ### Populur Datasets
-|Dataset|Usage|Quantity|Type|Year|
-|:----:|:----:|:----:|:----:|:----:|
-|[FFHQ](https://github.com/NVlabs/ffhq-dataset)|training|70,000|non-paired dataset|2018|
-|[CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)|training|202,599|non-paired dataset|2015|
-|[CelebA-HQ](https://paperswithcode.com/dataset/celeba-hq)|training|30,000|non-paired dataset|2020|
-|[LFW](http://vis-www.cs.umass.edu/lfw/)|training|13,233|non-paired dataset|2008|
-|[Multi-PIE](https://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Multi-Pie/Home.html)|training|75,000|non-paired dataset|2010|
-|[Helen](http://www.ifp.illinois.edu/~vuongle2/helen)|testing|2,330|non-paired dataset|2012|
-|[CelebA-Test](https://xinntao.github.io/projects/gfpgan)|testing|3,000|non-paired dataset|2021|
-|[CelebChild-Test](https://xinntao.github.io/projects/gfpgan)|testing|180|non-paired real-world dataset|2021|
-|[CelebAdult-Test](https://xinntao.github.io/projects/gfpgan)|testing|180|non-paired real-world dataset|2021|
-|[WebPhoto-Test](https://xinntao.github.io/projects/gfpgan)|testing|407|non-paired real-world dataset|2021|
-|[LFW-Test](https://xinntao.github.io/projects/gfpgan)|testing|1,711|non-paired real-world dataset|2021|
-|[Wider-Test](https://shangchenzhou.com/projects/CodeFormer/)|testing|970|non-paired real-world dataset|2022|
+|Dataset|Quantity|Introduction|Year|
+|:----:|:----:|:----:|:----:|
+|[FFHQ](https://github.com/NVlabs/ffhq-dataset)|70,000|non-paired dataset for training|2018|
+|[CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)|202,599|non-paired dataset for training|2015|
+|[CelebA-HQ](https://paperswithcode.com/dataset/celeba-hq)|30,000|non-paired dataset for training|2020|
+|[LFW](http://vis-www.cs.umass.edu/lfw/)|13,233|non-paired dataset for training|2008|
+|[Multi-PIE](https://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Multi-Pie/Home.html)|training|75,000|non-paired dataset for training|2010|
+|[Helen](http://www.ifp.illinois.edu/~vuongle2/helen)|2,330|non-paired dataset for testing|2012|
+|[CelebA-Test](https://xinntao.github.io/projects/gfpgan)|3,000|non-paired dataset for testing|2021|
+|[CelebChild-Test](https://xinntao.github.io/projects/gfpgan)|180|non-paired real-world dataset for testing|2021|
+|[CelebAdult-Test](https://xinntao.github.io/projects/gfpgan)|180|non-paired real-world dataset for testing|2021|
+|[WebPhoto-Test](https://xinntao.github.io/projects/gfpgan)|407|non-paired real-world dataset for testing|2021|
+|[LFW-Test](https://xinntao.github.io/projects/gfpgan)|1,711|non-paired real-world dataset for testing|2021|
+|[Wider-Test](https://shangchenzhou.com/projects/CodeFormer/)|970|non-paired real-world dataset for testing|2022|
 
 :boom: **Note**: More datasets can be found in the <a href="http://export.arxiv.org/pdf/2309.15490">Paper</a>.
 
