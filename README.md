@@ -279,12 +279,12 @@
 
 
 ## Perfermance
-### Non-Bind Face Super-Resoution
+### Non-Blind Face Super-Resoution
 <p align="center">
   <img src="imgs/non_blind_sr.png">
 </p>
 
-### Bind Face Restoration
+### Blind Face Restoration
 <p align="center">
   <img src="imgs/blind_per.png">
 </p>
@@ -293,7 +293,7 @@
   <img src="imgs/blind_balance.png">
 </p>
 
-### Bind Face Super-Resoution
+### Blind Face Super-Resoution
 <p align="center">
   <img src="imgs/blind_sr_per.png">
 </p>
@@ -310,7 +310,7 @@
 
 
 ### Evaluation Metrics
-:boom: **Note**: A detailed description of the indicator and how to use it can be found <a href="https://github.com/chaofengc/Awesome-Image-Quality-Assessment">here</a>.
+:triangular_flag_on_post: **Note**: A detailed description of the evaluation metrics and how to use it can be found <a href="https://github.com/chaofengc/Awesome-Image-Quality-Assessment">here</a>.
 
 
 ## :e-mail: Contact
