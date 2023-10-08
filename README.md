@@ -199,7 +199,6 @@
 ### Joint Face Completion
 |Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
 |:---:|:----:|:----:|
-|ICB2019|<a href="https://browse.arxiv.org/pdf/1906.02858.pdf">Does Generative Face Completion Help Face Recognition?|Prior-based|
 |ICME2019|<a href="https://ieeexplore.ieee.org/document/8784896">Facial Image Inpainting Using Multi-level Generative Network|CNN-based|
 |FG2020|<a href="https://ieeexplore.ieee.org/abstract/document/9320168">IF-GAN: Generative Adversarial Network for Identity Preserving Facial Image Inpainting and Frontalization|GAN-based|
 |TBOIM2020|<a href="https://ieeexplore.ieee.org/document/8890717">FCSR-GAN: Joint Face Completion and Super-Resolution via Multi-Task Learning|GAN/Prior-based|
@@ -220,9 +219,10 @@
 |Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
 |:---:|:----:|:----:|
 |TPAMI2019|<a href="https://ieeexplore.ieee.org/document/8704962">Can We See More? Joint Frontalization and Hallucination of Unaligned Tiny Faces|GAN-based|
+|FG2020|<a href="https://ieeexplore.ieee.org/abstract/document/9320168">IF-GAN: Generative Adversarial Network for Identity Preserving Facial Image Inpainting and Frontalization|GAN-based|
 |TCSVT2021|<a href="https://ieeexplore.ieee.org/document/9427073">Joint Face Image Restoration and Frontalization for Recognition|GAN/Prior-based|
-|TIP2022|<a href="https://ieeexplore.ieee.org/document/9318504">Face Hallucination With Finishing Touches|GAN/Prior-based|
-|TCSVT2022|<a href="https://ieeexplore.ieee.org/document/9535188">Simultaneous Face Completion and Frontalization via Mask Guided Two-Stage GAN|GAN/Attention-based|
+|TCSVT2021|<a href="https://ieeexplore.ieee.org/document/9535188">Simultaneous Face Completion and Frontalization via Mask Guided Two-Stage GAN|GAN/Attention-based|
+|TIP2021|<a href="https://ieeexplore.ieee.org/document/9318504">Face Hallucination With Finishing Touches|GAN/Prior-based|
 
 
 ### Joint Face Alignment
@@ -241,14 +241,20 @@
 |ECCV2018|<a href="https://arxiv.org/pdf/1811.02328.pdf">Super-Identity Convolutional Neural Network for Face Hallucination|Prior-based|
 |ICIP2019|<a href="https://ieeexplore.ieee.org/document/8803782">Low-Resolution Face Recognition Based on Identity-Preserved Face Hallucination|CNN-based|
 |TIP2019|<a href="https://ieeexplore.ieee.org/document/8751141">SiGAN: Siamese Generative Adversarial Network for Identity-Preserving Face Hallucination|GAN/Prior-based|
+|TIP2019|<a href="https://ieeexplore.ieee.org/document/8866753">Face Hallucination Using Cascaded Super-Resolution and Identity Priors|GAN/Prior-based|
+|Nercom2019|<a href="https://arxiv.org/abs/2008.11977">Edge and Identity Preserving Network for Face Super-Resolution|GAN/Prior-based|
+|Arxiv2019|<a href="https://arxiv.org/abs/1903.10974">Verification of Very Low-Resolution Faces Using An Identity-Preserving Deep Face Super-Resolution Network|GAN/Prior-based|
+|IJCV2019|<a href="https://link.springer.com/article/10.1007/s11263-019-01154-8">Wavelet Domain Generative Adversarial Network for Multi-scale Face Hallucination|GAN/Prior-based|
 |TPAMI2020|<a href="https://ieeexplore.ieee.org/document/8941241">Adversarial Cross-Spectral Face Completion for NIR-VIS Face Recognition|GAN-based|
 
 
 ### Joint Face Illumination Compensation
 |Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
 |:---:|:----:|:----:|
+|ICB2019|<a href="https://ieeexplore.ieee.org/document/8987344">SeLENet: A Semi-Supervised Low Light Face Enhancement Method for Mobile Face Unlock|CNN-based|
 |CVPR2020|<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Copy_and_Paste_GAN_Face_Hallucination_From_Shaded_Thumbnails_CVPR_2020_paper.pdf">Copy and Paste GAN: Face Hallucination from Shaded Thumbnails|CNN-based|
 |CVPR2020|<a href="https://arxiv.org/abs/2108.13584">From Less to More: Spectral Splitting and Aggregation Network for Hyperspectral Face Super-Resolution|CNN-based|
+|ICME2020|<a href="https://ieeexplore.ieee.org/document/9102816">Learning To See Faces In The Dark|CNN-based|
 |Arxiv2021|<a href="https://browse.arxiv.org/pdf/2105.06528.pdf">Network Architecture Search for Face Enhancement|CNN-based|
 |TPAMI2021|<a href="https://ieeexplore.ieee.org/document/9361225">Recursive Copy and Paste GAN: Face Hallucination From Shaded Thumbnails|GAN-based|
 
@@ -266,6 +272,9 @@
 ### Joint Face 3D Face Reconstruction
 |Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
 |:---:|:----:|:----:|
+|FG202O|<a href="https://ieeexplore.ieee.org/document/9320267">Face Denoising and 3D Reconstruction from A Single Depth Image|CNN-based|
+|IJCB2021|<a href="https://ieeexplore.ieee.org/document/9484379">3D Face Point Cloud Super-Resolution Network|CNN-based|
+|Sensors2022|<a href="https://www.mdpi.com/1424-8220/22/3/723">Incomplete Region Estimation and Restoration of 3D Point Cloud Human Face Datasets|CNN-based|
 |CVPR2022|<a href="https://ieeexplore.ieee.org/document/9879671">Learning to Restore 3D Face from In-the-Wild Degraded Images|Prior/GAN-based|
 
 
