@@ -44,13 +44,13 @@
   - [Joint Face Fairness](#Joint-Face-Fairness)
   - [Joint 3D Face Reconstruction](#Joint-3D-Face-Reconstruction)
 - [Perfermance](#perfermance)
-  - [Non-Bind Face Super-Resoution](#non-blind-face-super-resoution)
-  - [Blind Face Restoration](#blind-face-restoration)
-  - [Blind Face Super-Resoution](#blind-face-super-resoution)
+  - [Non-Bind Face Super-Resoution](#Non-Blind-Face-Super-Resoution)
+  - [Blind Face Restoration](#Blind-Face-Restoration)
+  - [Blind Face Super-Resoution](#Blind-Face-Super-Resoution)
   - [Joint Face Restoration](#joint-Face-restoration)
 - [Benchmarks](#benchmarks)
   - [Datasets](#datasets)
-  - [Losses](#losses)
+  - [Evaluation Metrics](#Evaluation-Metrics)
  
 
 ## Non-Blind Tasks
@@ -309,8 +309,8 @@
 ### Datasets
 
 
-### Losses
-
+### Evaluation Metrics
+:boom: **Note**: A detailed description of the indicator and how to use it can be found <a href="https://github.com/chaofengc/Awesome-Image-Quality-Assessment">here</a>.
 
 
 ## :e-mail: Contact
