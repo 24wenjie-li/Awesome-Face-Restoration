@@ -49,7 +49,7 @@
   - [Blind Face Super-Resoution](#Blind-Face-Super-Resoution)
   - [Joint Face Restoration](#joint-Face-restoration)
 - [Benchmarks](#benchmarks)
-  - [Datasets](#datasets)
+  - [Populur Datasets](#Populur-Datasets)
   - [Evaluation Metrics](#Evaluation-Metrics)
  
 
@@ -306,8 +306,22 @@
 :boom: **Note**: It can be found in the <a href="https://github.com/24wenjie-li/Awesome-Face-Restoration/blob/main/imgs/Supplementary.pdf">Supplementary Material</a>.
 
 ## Benchmarks
-### Datasets
-
+### Populur Datasets
+|Dataset|Usage|Quantity|Type|
+|:----:|:----:|:----:|:----:|
+|[FFHQ](https://github.com/NVlabs/ffhq-dataset)|training|70,000|non-paired dataset|
+|[CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)|training|202,599|non-paired dataset|
+|[CelebA-HQ](https://paperswithcode.com/dataset/celeba-hq)|training|30,000|non-paired dataset|
+|[LFW](http://vis-www.cs.umass.edu/lfw/)|training|13,233|non-paired dataset|
+|[Multi-PIE](https://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Multi-Pie/Home.html)|training|75,000|non-paired dataset|
+|[Helen](http://www.ifp.illinois.edu/~vuongle2/helen)|testing|2,330|non-paired dataset|
+|[CelebA-Test](https://xinntao.github.io/projects/gfpgan)|testing|3,000|non-paired dataset|
+|[CelebChild-Test](https://xinntao.github.io/projects/gfpgan)|testing|180|non-paired real-world dataset|
+|[CelebAdult-Test](https://xinntao.github.io/projects/gfpgan)|testing|180|non-paired real-world dataset|
+|[WebPhoto-Test](https://xinntao.github.io/projects/gfpgan)|testing|407|non-paired real-world dataset|
+|[LFW-Test](https://xinntao.github.io/projects/gfpgan)|testing|1,711|non-paired real-world dataset|
+|[Wider-Test](https://shangchenzhou.com/projects/CodeFormer/)|testing|970|non-paired real-world dataset|
+:boom: **Note**: More datasets can be found in the <a href="http://export.arxiv.org/pdf/2309.15490">Paper</a>.
 
 ### Evaluation Metrics
 :triangular_flag_on_post: **Note**: A detailed description of the evaluation metrics and how to use it can be found <a href="https://github.com/chaofengc/Awesome-Image-Quality-Assessment">here</a>.
