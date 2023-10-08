@@ -163,6 +163,7 @@
 |TCSVT2022|<a href="https://ieeexplore.ieee.org/document/10044117">DEAR-GAN: Degradation-Aware Face Restoration with GAN Prior|GAN/Prior-based|
 |TPAMI2022|<a href="https://ieeexplore.ieee.org/abstract/document/9808408">GLEAN: Generative Latent Bank for Image Super-Resolution and Beyond|GAN/Prior-based|
 |TPAMI2022|<a href="https://arxiv.org/pdf/2210.08160.pdf">Learning Dual Memory Dictionaries for Blind Face Restoration|GAN/Prior-based|
+|SIGGRAPH2022|<a href="https://www.wslai.net/publications/fusion_deblur/">Face Deblurring using Dual Camera Fusion on Mobile Phones|CNN-based|
 |Arxiv2022|<a href="https://arxiv.org/abs/2207.09790">FaceFormer: Scale-aware Blind Face Restoration with Transformers|GAN/Attention-based|
 |Arxiv2022|<a href="https://Arxiv.org/pdf/2206.13962.pdf">Multi-prior learning via neural architecture search for blind face restoration|GAN/Prior-based|
 |Arxiv2022|<a href="https://Arxiv.org/pdf/2206.03697.pdf">Blind Face Restoration: Benchmark Datasets and a Baseline Model|GAN/Attention-based|
@@ -249,6 +250,7 @@
 
 ## Benchmarks
 ### Datasets
+
 
 ### Losses
 
