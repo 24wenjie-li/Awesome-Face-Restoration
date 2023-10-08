@@ -313,7 +313,7 @@
 |[CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)|202,599|non-paired dataset for training|2015|
 |[CelebA-HQ](https://paperswithcode.com/dataset/celeba-hq)|30,000|non-paired dataset for training|2020|
 |[LFW](http://vis-www.cs.umass.edu/lfw/)|13,233|non-paired dataset for training|2008|
-|[Multi-PIE](https://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Multi-Pie/Home.html)|training|75,000|non-paired dataset for training|2010|
+|[Multi-PIE](https://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Multi-Pie/Home.html)|75,000|non-paired dataset for training|2010|
 |[Helen](http://www.ifp.illinois.edu/~vuongle2/helen)|2,330|non-paired dataset for testing|2012|
 |[CelebA-Test](https://xinntao.github.io/projects/gfpgan)|3,000|non-paired dataset for testing|2021|
 |[CelebChild-Test](https://xinntao.github.io/projects/gfpgan)|180|non-paired real-world dataset for testing|2021|
