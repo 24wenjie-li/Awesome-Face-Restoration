@@ -210,6 +210,7 @@
 |TMM2023|<a href="https://ieeexplore.ieee.org/abstract/document/9695189">FT-TDR: Frequency-Guided Transformer and Top-Down Refinement Network for Blind Face Inpainting|GAN/Prior-based|
 |TMM2023|<a href="https://ieeexplore.ieee.org/document/10032643">JDSR-GAN: Constructing an Efficient Joint Learning Network for Masked Face Super-Resolution|GAN/Prior-based|
 |TCSVT2022|<a href="https://ieeexplore.ieee.org/document/9625034">SwapInpaint: Identity-Specific Face Inpainting With Identity Swapping|GAN/Prior-based|
+|JVCI2023|<a href="https://browse.arxiv.org/pdf/2003.00255.pdf">Joint Face Completion and Super-resolution using Multi-scale Feature Relation Learning|GAN/Prior-based|
 |ICASSP2023|<a href="https://ieeexplore.ieee.org/document/10097082">Fine-Grained Blind Face Inpainting with 3D Face Component Disentanglement|Prior-based|
 |TIP2023|<a href="https://ieeexplore.ieee.org/document/10036452">Deep Face Video Inpainting via UV Mapping|Attention/GAN/Prior-based|
 
@@ -265,7 +266,7 @@
 ### Joint Face 3D Face Reconstruction
 |Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
 |:---:|:----:|:----:|
-|CVPR2022|<a href="https://ieeexplore.ieee.org/document/9879671">https://ieeexplore.ieee.org/document/9879671|Prior/GAN-based|
+|CVPR2022|<a href="https://ieeexplore.ieee.org/document/9879671">Learning to Restore 3D Face from In-the-Wild Degraded Images|Prior/GAN-based|
 
 
 ## Perfermance
