@@ -1,4 +1,4 @@
-## Survey on Deep Face Restoration: From Non-blind to Blind and Beyond
+## BreadcrumbsAwesome-Face-Restoration
 
 <p align="center">
   <h3 align="center">Survey on Deep Face Restoration: From Non-blind to Blind and Beyond </h3>
