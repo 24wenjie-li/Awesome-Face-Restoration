@@ -1,3 +1,5 @@
+## Survey on Deep Face Restoration: From Non-blind to Blind and Beyond
+
 <p align="center">
   <h3 align="center">Survey on Deep Face Restoration: From Non-blind to Blind and Beyond </h3>
   <p align="center">A comprehensive statistic on methods related to deep face restoration.
