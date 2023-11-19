@@ -257,6 +257,7 @@
 |ICME2020|<a href="https://ieeexplore.ieee.org/document/9102816">Learning To See Faces In The Dark|CNN-based|
 |Arxiv2021|<a href="https://browse.arxiv.org/pdf/2105.06528.pdf">Network Architecture Search for Face Enhancement|CNN-based|
 |TPAMI2021|<a href="https://ieeexplore.ieee.org/document/9361225">Recursive Copy and Paste GAN: Face Hallucination From Shaded Thumbnails|GAN-based|
+|TMM2023|<a href="https://ieeexplore.ieee.org/document/10180077">Learning to Hallucinate Face in the Dark|CNN-based|
 
 
 ### Joint Face Fairness
