@@ -175,6 +175,7 @@
 |Arxiv2022|<a href="Face Deblurring Based on Separable Normalization and Adaptive Denormalization">Face Deblurring Based on Separable Normalization and Adaptive Denormalization|Prior/GAN-based|
 |CVPR2023|<a href="https://arxiv.org/abs/2303.06885">DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration|Diffusion-based|
 |CVPRW2023|<a href="https://openaccess.thecvf.com/content/CVPR2023W/MULA/papers/Xie_TFRGAN_Leveraging_Text_Information_for_Blind_Face_Restoration_With_Extreme_CVPRW_2023_paper.pdf">TFRGAN: Leveraging Text Information for Blind Face Restoration with Extreme Degradation|GAN/Prior-based|
+|CVPRW2023|<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10208556">FRR-Net: A Real-Time Blind Face Restoration and Relighting Network|GAN/Prior-based|
 |AAAI2023|<a href="https://arxiv.org/abs/2211.13524">GAN Prior Based Null-Space Learning for Consistent Super-resolution|GAN-based|
 |IJCAI2023|<a href="https://www.ijcai.org/proceedings/2023/128">Analyzing and Combating Attribute Bias for Face Restoration|GAN/Prior-based|
 |ICML2023|<a href="https://arxiv.org/abs/2212.00490">ZERO-SHOT IMAGE RESTORATION USING DENOISING DIFFUSION NULL-SPACE MODEL|Diffusion-based|
@@ -185,12 +186,12 @@
 |TPAMI2023|<a href="https://ieeexplore.ieee.org/document/9744329">Old Photo Restoration via Deep Latent Space Translation|GAN/Prior-based|
 |TPAMI2023|<a href="https://ieeexplore.ieee.org/document/9730053">Multi-Modality Deep Restoration of Extremely Compressed Face Videos|GAN/Prior-based|
 |TPAMI2023|<a href="https://browse.arxiv.org/pdf/2308.07228.pdf">RestoreFormer++: Towards Real-World Blind Face Restoration from Undegraded Key-Value Pairs|Prior/GAN-based|
+|TCSVT2023|<a href="https://browse.arxiv.org/pdf/2308.10196.pdf">Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer|Prior/Attention-based|
 |WACV2023|<a href="https://openaccess.thecvf.com/content/WACV2023/papers/Nair_ATDDPM_Restoring_Faces_Degraded_by_Atmospheric_Turbulence_Using_Denoising_Diffusion_WACV_2023_paper.pdf">AT-DDPM: Restoring Faces degraded by Atmospheric Turbulence using Denoising Diffusion Probabilistic Models|Diffusion-based|
 |Arxiv2023|<a href="https://browse.arxiv.org/pdf/2303.08714.pdf">ResDiff: Combining CNN and Diffusion Model for Image Super-Resolution|Diffusion-based|
 |Arxiv2023|<a href="https://browse.arxiv.org/pdf/2308.15070.pdf">DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior|Diffusion-based|
 |Arxiv2023|<a href="https://browse.arxiv.org/pdf/2305.07015.pdf">Exploiting Diffusion Prior for Real-World Image Super-Resolution|Diffusion-based|
 |Arxiv2023|<a href="https://browse.arxiv.org/pdf/2309.07495.pdf">HDTR-Net: A Real-Time High-Definition Teeth Restoration Network for Arbitrary Talking Face Generation Methods|CNN-based|
-|Arxiv2023|<a href="https://browse.arxiv.org/pdf/2308.10196.pdf">Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer|Prior/Attention-based|
 |Arxiv2023|<a href="https://browse.arxiv.org/pdf/2308.07314.pdf">Dual Associated Encoder for Face Restoration|Prior/GAN-based|
 |Arxiv2023|<a href="https://arxiv.org/pdf/2312.15736.pdf">Towards Real-World Blind Face Restoration with Generative Diffusion Prior|Prior/GAN-based|
 
@@ -213,6 +214,7 @@
 |JVCI2023|<a href="https://browse.arxiv.org/pdf/2003.00255.pdf">Joint Face Completion and Super-resolution using Multi-scale Feature Relation Learning|GAN/Prior-based|
 |ICASSP2023|<a href="https://ieeexplore.ieee.org/document/10097082">Fine-Grained Blind Face Inpainting with 3D Face Component Disentanglement|Prior-based|
 |TIP2023|<a href="https://ieeexplore.ieee.org/document/10036452">Deep Face Video Inpainting via UV Mapping|Attention/GAN/Prior-based|
+|PR2023|<a href="https://www.sciencedirect.com/science/article/pii/S1047320323000561">Joint face completion and super-resolution using multi-scale feature relation learning|Attention/GAN/Prior-based|
 
 
 
