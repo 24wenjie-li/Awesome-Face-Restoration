@@ -184,6 +184,7 @@
 |TIP2023|<a href="https://ieeexplore.ieee.org/document/10036448">Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution>|CycleGAN-based|
 |TPAMI2023|<a href="https://ieeexplore.ieee.org/document/9744329">Old Photo Restoration via Deep Latent Space Translation|GAN/Prior-based|
 |TPAMI2023|<a href="https://ieeexplore.ieee.org/document/9730053">Multi-Modality Deep Restoration of Extremely Compressed Face Videos|GAN/Prior-based|
+|TPAMI2023|<a href="https://browse.arxiv.org/pdf/2308.07228.pdf">RestoreFormer++: Towards Real-World Blind Face Restoration from Undegraded Key-Value Pairs|Prior/GAN-based|
 |WACV2023|<a href="https://openaccess.thecvf.com/content/WACV2023/papers/Nair_ATDDPM_Restoring_Faces_Degraded_by_Atmospheric_Turbulence_Using_Denoising_Diffusion_WACV_2023_paper.pdf">AT-DDPM: Restoring Faces degraded by Atmospheric Turbulence using Denoising Diffusion Probabilistic Models|Diffusion-based|
 |Arxiv2023|<a href="https://browse.arxiv.org/pdf/2303.08714.pdf">ResDiff: Combining CNN and Diffusion Model for Image Super-Resolution|Diffusion-based|
 |Arxiv2023|<a href="https://browse.arxiv.org/pdf/2308.15070.pdf">DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior|Diffusion-based|
@@ -191,7 +192,7 @@
 |Arxiv2023|<a href="https://browse.arxiv.org/pdf/2309.07495.pdf">HDTR-Net: A Real-Time High-Definition Teeth Restoration Network for Arbitrary Talking Face Generation Methods|CNN-based|
 |Arxiv2023|<a href="https://browse.arxiv.org/pdf/2308.10196.pdf">Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer|Prior/Attention-based|
 |Arxiv2023|<a href="https://browse.arxiv.org/pdf/2308.07314.pdf">Dual Associated Encoder for Face Restoration|Prior/GAN-based|
-|Arxiv2023|<a href="https://browse.arxiv.org/pdf/2308.07228.pdf">RestoreFormer++: Towards Real-World Blind Face Restoration from Undegraded Key-Value Pairs|Prior/GAN-based|
+|Arxiv2023|<a href="https://arxiv.org/pdf/2312.15736.pdf">Towards Real-World Blind Face Restoration with Generative Diffusion Prior|Prior/GAN-based|
 
 
 
