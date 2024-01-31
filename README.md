@@ -194,6 +194,7 @@
 |Arxiv2023|<a href="https://browse.arxiv.org/pdf/2309.07495.pdf">HDTR-Net: A Real-Time High-Definition Teeth Restoration Network for Arbitrary Talking Face Generation Methods|CNN-based|
 |Arxiv2023|<a href="https://browse.arxiv.org/pdf/2308.07314.pdf">Dual Associated Encoder for Face Restoration|Prior/GAN-based|
 |Arxiv2023|<a href="https://arxiv.org/pdf/2312.15736.pdf">Towards Real-World Blind Face Restoration with Generative Diffusion Prior|Prior/GAN-based|
+|ICLR2024|<a href="https://browse.arxiv.org/pdf/2308.07314.pdf">DUAL ASSOCIATED ENCODER FOR FACE RESTORATION|Prior/GAN-based|
 
 
 
