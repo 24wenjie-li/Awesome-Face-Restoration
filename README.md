@@ -194,6 +194,7 @@
 |Arxiv2023|<a href="https://browse.arxiv.org/pdf/2309.07495.pdf">HDTR-Net: A Real-Time High-Definition Teeth Restoration Network for Arbitrary Talking Face Generation Methods|CNN-based|
 |Arxiv2023|<a href="https://arxiv.org/pdf/2312.15736.pdf">Towards Real-World Blind Face Restoration with Generative Diffusion Prior|Prior/Diffusion-based|
 |ICLR2024|<a href="https://browse.arxiv.org/pdf/2308.07314.pdf">DUAL ASSOCIATED ENCODER FOR FACE RESTORATION|Prior/GAN-based|
+|Arxiv2024|<a href="https://arxiv.org/pdf/2403.12760.pdf">WaveFace: Authentic Face Restoration with Efficient Frequency Recovery|Diffusion-based|
 
 
 
@@ -261,7 +262,7 @@
 |Arxiv2021|<a href="https://browse.arxiv.org/pdf/2105.06528.pdf">Network Architecture Search for Face Enhancement|CNN-based|
 |TPAMI2021|<a href="https://ieeexplore.ieee.org/document/9361225">Recursive Copy and Paste GAN: Face Hallucination From Shaded Thumbnails|GAN-based|
 |TMM2023|<a href="https://ieeexplore.ieee.org/document/10180077">Learning to Hallucinate Face in the Dark|CNN-based|
-
+|AAAI24|<a href="https://github.com/wcy-cs/IC-FSRDENet">Low-Light Face Super-resolution via Illumination, Structure, and Texture Associated Representation|Attention-based|
 
 ### Joint Face Fairness
 |Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
