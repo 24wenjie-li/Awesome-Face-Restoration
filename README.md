@@ -195,6 +195,8 @@
 |Arxiv2023|<a href="https://arxiv.org/pdf/2312.15736.pdf">Towards Real-World Blind Face Restoration with Generative Diffusion Prior|Prior/Diffusion-based|
 |ICLR2024|<a href="https://browse.arxiv.org/pdf/2308.07314.pdf">DUAL ASSOCIATED ENCODER FOR FACE RESTORATION|Prior/GAN-based|
 |Arxiv2024|<a href="https://arxiv.org/pdf/2403.12760.pdf">WaveFace: Authentic Face Restoration with Efficient Frequency Recovery|Diffusion-based|
+|Arxiv2024|<a href="https://arxiv.org/pdf/2403.10098.pdf">DiffMAC: Diffusion Manifold Hallucination Correction for High Generalization Blind Face Restoration|Diffusion-based|
+|Arxiv2024|<a href="https://arxiv.org/pdf/2403.08436.pdf">PFStorer: Personalized Face Restoration and Super-Resolution|Diffusion-based|
 
 
 
