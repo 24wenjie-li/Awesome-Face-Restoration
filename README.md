@@ -181,6 +181,7 @@
 |ICML2023|<a href="https://arxiv.org/abs/2212.00490">ZERO-SHOT IMAGE RESTORATION USING DENOISING DIFFUSION NULL-SPACE MODEL|Diffusion-based|
 |ICCV2023|<a href="https://arxiv.org/abs/2307.08996">Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond|Diffusion-based|
 |MM2023|<a href="https://arxiv.org/abs/2305.04517">DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration|Diffusion-based|
+|MM2023|<a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3611782">Exploring Correlations in Degraded Spatial Identity Features for Blind Face Restoration|GAN/Prior-based|
 |Nips2023|<a href="https://browse.arxiv.org/pdf/2309.10810.pdf">PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance|Diffusion-based|
 |TIP2023|<a href="https://ieeexplore.ieee.org/document/10036448">Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution>|CycleGAN-based|
 |TPAMI2023|<a href="https://ieeexplore.ieee.org/document/9744329">Old Photo Restoration via Deep Latent Space Translation|GAN/Prior-based|
