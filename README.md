@@ -134,7 +134,6 @@
 |CVPR2018|<a href="https://browse.arxiv.org/pdf/1712.02765.pdf">Super-fan: Integrated facial landmark localization and super-resolution of real-world low resolution faces in arbitrary poses with gans|Prior/GAN-based|
 |CVPR2018|<a href="https://arxiv.org/abs/1803.03345">Exploiting Semantics for Face Image Deblurring|Prior-based|
 |CVPRW2018|<a href="https://ieeexplore.ieee.org/document/8575269">Learning Face Deblurring Fast and Wide|Prior-based|
-|CVPRW2018|<a href="https://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Jin_Learning_Face_Deblurring_CVPR_2018_paper.html">Learning Face Deblurring Fast and Wide|CNN-based|
 |ICCV2019|<a href="https://ieeexplore.ieee.org/document/9008540">DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better|GAN-based|
 |ICIP2019|<a href="https://ieeexplore.ieee.org/document/8803393">GUIDED CYCLEGAN VIA SEMI-DUAL OPTIMAL TRANSPORT FOR PHOTO-REALISTIC FACE SUPER-RESOLUTION|CycleGAN-based|
 |IJCV2020|<a href="https://arxiv.org/abs/2001.06822v2">Exploiting Semantics for Face Image Deblurring|Prior-based|
