@@ -199,7 +199,6 @@
 |CVPR2024|<a href="https://arxiv.org/pdf/2403.12760.pdf">WaveFace: Authentic Face Restoration with Efficient Frequency Recovery|Diffusion-based|
 |CVPR2024|<a href="https://arxiv.org/pdf/2403.08436.pdf">PFStorer: Personalized Face Restoration and Super-Resolution|Diffusion-based|
 |Arxiv2024|<a href="https://arxiv.org/pdf/2403.10098.pdf">DiffMAC: Diffusion Manifold Hallucination Correction for High Generalization Blind Face Restoration|Diffusion-based|
-|Arxiv2024|<a href="https://arxiv.org/pdf/2403.08436.pdf">PFStorer: Personalized Face Restoration and Super-Resolution|Diffusion-based|
 
 
 
