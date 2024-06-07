@@ -102,7 +102,6 @@
 |ICIP2021|<a href="https://ieeexplore.ieee.org/abstract/document/9506610">Progressive Face Super-Resolution with Non-Parametric Facial Prior Enhancement|Prior-based|
 |TCSVT2022|<a href="https://ieeexplore.ieee.org/document/9964277">Progressive Face Super-Resolution with Non-Parametric Facial Prior Enhancement|Attention-based|
 |TCSVT2022|<a href="https://ieeexplore.ieee.org/abstract/document/9792407">Propagating Facial Prior Knowledge for Multitask Learning in Face Super-Resolution|Prior-based|
-|TNNLS2022|<a href="https://ieeexplore.ieee.org/document/9875217">Rethinking Prior-Guided Face Super-Resolution: A New Paradigm With Facial Component Prior|Prior-based|
 |TIP2022|<a href="https://ieeexplore.ieee.org/document/9916123">Attention-Driven Graph Neural Network for Deep Face Super-Resolution|Attention-based|
 |TPAMI2022|<a href="https://ieeexplore.ieee.org/document/9887996">Image Super-Resolution via Iterative Refinement|Diffusion-based|
 |Nercom2022|<a href="https://browse.arxiv.org/pdf/2104.14951.pdf">SRDiff: Single Image Super-Resolution with Diffusion Probabilistic Models|Diffusion-based|
@@ -123,6 +122,8 @@
 |CVPR2023|<a href="https://browse.arxiv.org/pdf/2303.16491.pdf">Implicit Diffusion Models for Continuous Super-Resolution|Diffusion-based|
 |IJCAI2023|<a href="https://www.ijcai.org/proceedings/2023/0115.pdf">Learning Attention from Attention: Effcient Self-Refnement Transformer for Face Super-Resolution|Attention-based|
 |AAAI2024|<a href="https://ojs.aaai.org/index.php/AAAI/article/view/28195">SkipDiff: Adaptive Skip Diffusion Model for High-Fidelity Perceptual Image Super-resolution|Diffusion-based|
+|TNNLS2024|<a href="https://ieeexplore.ieee.org/document/9875217">Rethinking Prior-Guided Face Super-Resolution: A New Paradigm With Facial Component Prior|Prior-based|
+|TCSVT2024|<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10535972">PLGNet: Prior-guided Local and Global Interactive Hybrid Network for Face Super-Resolution|Prior-based|
 
 ## Blind Tasks
 |Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
@@ -180,6 +181,7 @@
 |IJCAI2023|<a href="https://www.ijcai.org/proceedings/2023/128">Analyzing and Combating Attribute Bias for Face Restoration|GAN/Prior-based|
 |ICML2023|<a href="https://arxiv.org/abs/2212.00490">ZERO-SHOT IMAGE RESTORATION USING DENOISING DIFFUSION NULL-SPACE MODEL|Diffusion-based|
 |ICCV2023|<a href="https://arxiv.org/abs/2307.08996">Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond|Diffusion-based|
+|ICCV2023|<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Yin_MetaF2N_Blind_Image_Super-Resolution_by_Learning_Efficient_Model_Adaptation_from_ICCV_2023_paper.pdf">MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces|Prior-based|
 |MM2023|<a href="https://arxiv.org/abs/2305.04517">DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration|Diffusion-based|
 |MM2023|<a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3611782">Exploring Correlations in Degraded Spatial Identity Features for Blind Face Restoration|GAN/Prior-based|
 |Nips2023|<a href="https://browse.arxiv.org/pdf/2309.10810.pdf">PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance|Diffusion-based|
@@ -266,7 +268,9 @@
 |Arxiv2021|<a href="https://browse.arxiv.org/pdf/2105.06528.pdf">Network Architecture Search for Face Enhancement|CNN-based|
 |TPAMI2021|<a href="https://ieeexplore.ieee.org/document/9361225">Recursive Copy and Paste GAN: Face Hallucination From Shaded Thumbnails|GAN-based|
 |TMM2023|<a href="https://ieeexplore.ieee.org/document/10180077">Learning to Hallucinate Face in the Dark|CNN-based|
-|AAAI24|<a href="https://github.com/wcy-cs/IC-FSRDENet">Low-Light Face Super-resolution via Illumination, Structure, and Texture Associated Representation|Attention-based|
+|AAAI2024|<a href="https://github.com/wcy-cs/IC-FSRDENet">Low-Light Face Super-resolution via Illumination, Structure, and Texture Associated Representation|Attention/diffusion-based|
+|TCSVT2024|<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10288219">Watch You Under Low-Resolution and Low-Illumination: Face Enhancement via Bi-Factor Degradation Decoupling|Attention-based|
+
 
 ### Joint Face Fairness
 |Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
