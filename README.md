@@ -319,7 +319,7 @@
 :boom: **Note**: It can be found in the <a href="https://github.com/24wenjie-li/Awesome-Face-Restoration/blob/main/imgs/Supplementary.pdf">Supplementary Material</a>.
 
 ## Benchmarks
-### Populur Datasets
+### Popular Datasets
 |Dataset|Quantity|Introduction|Year|
 |:----:|:----:|:----:|:----:|
 |[FFHQ](https://github.com/NVlabs/ffhq-dataset)|70,000|non-paired dataset for training|2018|
