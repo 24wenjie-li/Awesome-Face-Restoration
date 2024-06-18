@@ -201,6 +201,8 @@
 |AAAI2024|<a href="https://browse.arxiv.org/pdf/2303.08714.pdf">ResDiff: Combining CNN and Diffusion Model for Image Super-Resolution|Diffusion-based|
 |CVPR2024|<a href="https://arxiv.org/pdf/2403.12760.pdf">WaveFace: Authentic Face Restoration with Efficient Frequency Recovery|Diffusion-based|
 |CVPR2024|<a href="https://arxiv.org/pdf/2403.08436.pdf">PFStorer: Personalized Face Restoration and Super-Resolution|Diffusion-based|
+|CVPR2024|<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_Learning_Degradation-unaware_Representation_with_Prior-based_Latent_Transformations_for_Blind_Face_CVPR_2024_paper.pdf">Learning Degradation-unaware Representation with Prior-based Latent
+Transformations for Blind Face Restoration|Diffusion-based|
 |Arxiv2024|<a href="https://arxiv.org/pdf/2403.10098.pdf">DiffMAC: Diffusion Manifold Hallucination Correction for High Generalization Blind Face Restoration|Diffusion-based|
 |NTIRE2024|<a href="https://arxiv.org/pdf/2404.19500">Towards Real-world Video Face Restoration: A New Benchmark|Benchmark|
 
