@@ -173,7 +173,6 @@
 |Arxiv2022|<a href="https://Arxiv.org/pdf/2206.13962.pdf">Multi-prior learning via neural architecture search for blind face restoration|GAN/Prior-based|
 |Arxiv2022|<a href="https://Arxiv.org/pdf/2206.03697.pdf">Blind Face Restoration: Benchmark Datasets and a Baseline Model|GAN/Attention-based|
 |Arxiv2022|<a href="https://browse.arxiv.org/pdf/2205.14377v1.pdf">Enhancing Quality of Pose-varied Face Restoration with Local Weak Feature Sensing and GAN Prior|GAN/Prior-based|
-|Arxiv2022|<a href="https://arxiv.org/pdf/2212.06512.pdf">Difface: Blind Face Restoration with Diffused Error Contraction|Diffusion-based|
 |Arxiv2022|<a href="Face Deblurring Based on Separable Normalization and Adaptive Denormalization">Face Deblurring Based on Separable Normalization and Adaptive Denormalization|Prior/GAN-based|
 |CVPR2023|<a href="https://arxiv.org/abs/2303.06885">DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration|Diffusion-based|
 |CVPRW2023|<a href="https://openaccess.thecvf.com/content/CVPR2023W/MULA/papers/Xie_TFRGAN_Leveraging_Text_Information_for_Blind_Face_Restoration_With_Extreme_CVPRW_2023_paper.pdf">TFRGAN: Leveraging Text Information for Blind Face Restoration with Extreme Degradation|GAN/Prior-based|
@@ -205,6 +204,7 @@
 |CVPR2024|<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Ding_Restoration_by_Generation_with_Constrained_Priors_CVPR_2024_paper.pdf"> Restoration by Generation with Constrained Priors|Diffusion-based|
 |Arxiv2024|<a href="https://arxiv.org/pdf/2403.10098.pdf">DiffMAC: Diffusion Manifold Hallucination Correction for High Generalization Blind Face Restoration|Diffusion-based|
 |NTIRE2024|<a href="https://arxiv.org/pdf/2404.19500">Towards Real-world Video Face Restoration: A New Benchmark|Benchmark|
+|TPAMI2024|<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10607954">Difface: Blind Face Restoration with Diffused Error Contraction|Diffusion-based|
 
 
 ## Joint Tasks
