@@ -125,6 +125,7 @@
 |TBOIM2024|<a href="https://ieeexplore.ieee.org/document/10485196">SPADNet: Structure Prior-aware Dynamic Network for Face Super-Resolution|Prior-based|
 |TNNLS2024|<a href="https://ieeexplore.ieee.org/document/9875217">Rethinking Prior-Guided Face Super-Resolution: A New Paradigm With Facial Component Prior|Prior-based|
 |TCSVT2024|<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10535972">PLGNet: Prior-guided Local and Global Interactive Hybrid Network for Face Super-Resolution|Prior-based|
+|ACMMM2024|<a href="https://arxiv.org/pdf/2407.19768">Efficient Face Super-Resolution via Wavelet-based Feature Enhancement Network|Attention-based|
 
 ## Blind Tasks
 |Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
