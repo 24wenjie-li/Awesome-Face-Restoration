@@ -207,6 +207,7 @@
 |Arxiv2024|<a href="https://arxiv.org/pdf/2403.10098.pdf">DiffMAC: Diffusion Manifold Hallucination Correction for High Generalization Blind Face Restoration|Diffusion-based|
 |NTIRE2024|<a href="https://arxiv.org/pdf/2404.19500">Towards Real-world Video Face Restoration: A New Benchmark|Benchmark|
 |TPAMI2024|<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10607954">Difface: Blind Face Restoration with Diffused Error Contraction|Diffusion-based|
+|ECCV2024|<a href="https://arxiv.org/pdf/2408.05205">Kalman-Inspired Feature Propagation for Video Face Super-Resolution|-|
 
 
 ## Joint Tasks
