@@ -209,6 +209,8 @@
 |TPAMI2024|<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10607954">Difface: Blind Face Restoration with Diffused Error Contraction|Diffusion-based|
 |ECCV2024|<a href="https://arxiv.org/pdf/2408.05205">Kalman-Inspired Feature Propagation for Video Face Super-Resolution|GAN-based|
 |PR2024|<a href="https://arxiv.org/abs/2412.21042">Visual style prompt learning using diffusion models for blind face restoration|Diffusion-based|
+|CVPR25|<a href="https://arxiv.org/abs/2411.17163">OSDFace: One-Step Diffusion Model for Face Restoration|Diffusion-based|
+
 
 
 ## Joint Tasks
