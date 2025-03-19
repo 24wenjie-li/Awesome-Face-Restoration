@@ -127,6 +127,7 @@
 |TCSVT2024|<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10535972">PLGNet: Prior-guided Local and Global Interactive Hybrid Network for Face Super-Resolution|Prior-based|
 |PR2024|<a href="https://www.sciencedirect.com/science/article/pii/S0031320324006058">SANet: Face super-resolution based on self-similarity prior and attention integration|Attention-based|
 |ACMMM2024|<a href="https://arxiv.org/pdf/2407.19768">Efficient Face Super-Resolution via Wavelet-based Feature Enhancement Network|Attention-based|
+|Arxiv2025|<a href="https://arxiv.org/pdf/2409.00591">Attention-Guided Multi-scale Interaction Network for Face Super-Resolution|Attention-based|
 
 ## Blind Tasks
 |Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
@@ -209,7 +210,8 @@
 |TPAMI2024|<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10607954">Difface: Blind Face Restoration with Diffused Error Contraction|Diffusion-based|
 |ECCV2024|<a href="https://arxiv.org/pdf/2408.05205">Kalman-Inspired Feature Propagation for Video Face Super-Resolution|GAN-based|
 |PR2024|<a href="https://arxiv.org/abs/2412.21042">Visual style prompt learning using diffusion models for blind face restoration|Diffusion-based|
-|CVPR25|<a href="https://arxiv.org/abs/2411.17163">OSDFace: One-Step Diffusion Model for Face Restoration|Diffusion-based|
+|Arxiv2025|<a href="https://arxiv.org/pdf/2503.09294">IQPFR: An Image Quality Prior for Blind Face Restoration and Beyond|GAN-based|
+|CVPR2025|<a href="https://arxiv.org/abs/2411.17163">OSDFace: One-Step Diffusion Model for Face Restoration|Diffusion-based|
 
 
 
