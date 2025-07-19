@@ -212,6 +212,7 @@
 |PR2024|<a href="https://arxiv.org/abs/2412.21042">Visual style prompt learning using diffusion models for blind face restoration|Diffusion-based|
 |Arxiv2025|<a href="https://arxiv.org/pdf/2503.09294">IQPFR: An Image Quality Prior for Blind Face Restoration and Beyond|GAN-based|
 |ICLR2025|<a href="https://arxiv.org/abs/2411.17163">InterLCM: Low-Quality Images as Intermediate States of Latent Consistency Models for Effective Blind Face Restoration|Diffusion-based|
+|ICLR2025|<a href="https://arxiv.org/pdf/2410.00418">POSTERIOR-MEAN RECTIFIED FLOW: TOWARDS MIN IMUM MSE PHOTO-REALISTIC IMAGE RESTORATION|Diffusion-based|
 |CVPR2025|<a href="https://arxiv.org/abs/2411.17163">OSDFace: One-Step Diffusion Model for Face Restoration|Diffusion-based|
 
 
