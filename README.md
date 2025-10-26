@@ -216,7 +216,8 @@
 |ICLR2025|<a href="https://arxiv.org/pdf/2410.04161">OVERCOMING FALSE ILLUSIONS IN REAL-WORLD FACE RESTORATION WITH MULTI-MODAL GUIDED DIFFUSION MODEL|Diffusion-based|
 |ICLR2025|<a href="https://arxiv.org/pdf/2410.00418">POSTERIOR-MEAN RECTIFIED FLOW: TOWARDS MIN IMUM MSE PHOTO-REALISTIC IMAGE RESTORATION|Diffusion-based|
 |CVPR2025|<a href="https://arxiv.org/abs/2411.17163">OSDFace: One-Step Diffusion Model for Face Restoration|Diffusion-based|
-|NeurIPs|<a href="https://arxiv.org/pdf/2510.12114">Self-Supervised Selective-Guided Diffusion Model for Old-Photo Face Restoration|Diffusion-based|
+|ICCV2025|<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Du_Diffusion_Transformer_meets_Multi-level_Wavelet_Spectrum_for_Single_Image_Super-Resolution_ICCV_2025_paper.pdf">Diffusion Transformer meets Multi-level Wavelet Spectrum for Single Image Super-Resolution|Diffusion-based|
+|NeurIPs2025|<a href="https://arxiv.org/pdf/2510.12114">Self-Supervised Selective-Guided Diffusion Model for Old-Photo Face Restoration|Diffusion-based|
 
 
 
