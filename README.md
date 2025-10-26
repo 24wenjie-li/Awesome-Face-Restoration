@@ -127,7 +127,9 @@
 |TCSVT2024|<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10535972">PLGNet: Prior-guided Local and Global Interactive Hybrid Network for Face Super-Resolution|Prior-based|
 |PR2024|<a href="https://www.sciencedirect.com/science/article/pii/S0031320324006058">SANet: Face super-resolution based on self-similarity prior and attention integration|Attention-based|
 |ACMMM2024|<a href="https://arxiv.org/pdf/2407.19768">Efficient Face Super-Resolution via Wavelet-based Feature Enhancement Network|Attention-based|
-|Arxiv2025|<a href="https://arxiv.org/pdf/2409.00591">Attention-Guided Multi-scale Interaction Network for Face Super-Resolution|Attention-based|
+|TSMCS2025|<a href="https://arxiv.org/pdf/2409.00591">Attention-Guided Multi-scale Interaction Network for Face Super-Resolution|Attention-based|
+|ICCV2025|<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Du_Diffusion_Transformer_meets_Multi-level_Wavelet_Spectrum_for_Single_Image_Super-Resolution_ICCV_2025_paper.pdf">Diffusion Transformer meets Multi-level Wavelet Spectrum for Single Image Super-Resolution|Diffusion-based|
+
 
 ## Blind Tasks
 |Pub<div style="width:60px">|Paper<div style="width:600px">|Technology<div style="width:100px">|
@@ -216,7 +218,6 @@
 |ICLR2025|<a href="https://arxiv.org/pdf/2410.04161">OVERCOMING FALSE ILLUSIONS IN REAL-WORLD FACE RESTORATION WITH MULTI-MODAL GUIDED DIFFUSION MODEL|Diffusion-based|
 |ICLR2025|<a href="https://arxiv.org/pdf/2410.00418">POSTERIOR-MEAN RECTIFIED FLOW: TOWARDS MIN IMUM MSE PHOTO-REALISTIC IMAGE RESTORATION|Diffusion-based|
 |CVPR2025|<a href="https://arxiv.org/abs/2411.17163">OSDFace: One-Step Diffusion Model for Face Restoration|Diffusion-based|
-|ICCV2025|<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Du_Diffusion_Transformer_meets_Multi-level_Wavelet_Spectrum_for_Single_Image_Super-Resolution_ICCV_2025_paper.pdf">Diffusion Transformer meets Multi-level Wavelet Spectrum for Single Image Super-Resolution|Diffusion-based|
 |NeurIPs2025|<a href="https://arxiv.org/pdf/2510.12114">Self-Supervised Selective-Guided Diffusion Model for Old-Photo Face Restoration|Diffusion-based|
 
 
