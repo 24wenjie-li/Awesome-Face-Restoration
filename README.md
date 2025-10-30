@@ -167,7 +167,7 @@
 |AAAI2022|<a href="https://arxiv.org/pdf/2203.08444.pdf">Panini-Net: GAN Prior Based Degradation-Aware Feature Interpolation for Face Restoration|GAN/Prior-based|
 |ECCV2022|<a href="https://Arxiv.org/pdf/2205.06803.pdf">VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder|GAN/Prior-based|
 |ECCV2022|<a href="https://arxiv.org/pdf/2210.00752v2.pdf">From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution|GAN-based|
-|Nips2022|<a href="https://Arxiv.org/pdf/2206.11253.pdf">Towards Robust Blind Face Restoration with Codebook Lookup Transformer|GAN/Prior-based|
+|NeurIPS2022|<a href="https://Arxiv.org/pdf/2206.11253.pdf">Towards Robust Blind Face Restoration with Codebook Lookup Transformer|GAN/Prior-based|
 |ICME2022|<a href="https://ieeexplore.ieee.org/document/9859870">FEATURE-GUIDED BLIND FACE RESTORATION WITH GAN PRIOR|GAN/Prior-based|
 |WACV2022|<a href="https://ieeexplore.ieee.org/document/9707072">Deep Feature Prior Guided Face Deblurring|GAN/Prior-based|
 |TCSVT2022|<a href="https://ieeexplore.ieee.org/document/10044117">DEAR-GAN: Degradation-Aware Face Restoration with GAN Prior|GAN/Prior-based|
@@ -189,7 +189,7 @@
 |ICCV2023|<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Yin_MetaF2N_Blind_Image_Super-Resolution_by_Learning_Efficient_Model_Adaptation_from_ICCV_2023_paper.pdf">MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces|Prior-based|
 |MM2023|<a href="https://arxiv.org/abs/2305.04517">DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration|Diffusion-based|
 |MM2023|<a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3611782">Exploring Correlations in Degraded Spatial Identity Features for Blind Face Restoration|GAN/Prior-based|
-|Nips2023|<a href="https://browse.arxiv.org/pdf/2309.10810.pdf">PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance|Diffusion-based|
+|NeurIPS2023|<a href="https://browse.arxiv.org/pdf/2309.10810.pdf">PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance|Diffusion-based|
 |TIP2023|<a href="https://ieeexplore.ieee.org/document/10036448">Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution>|CycleGAN-based|
 |TPAMI2023|<a href="https://ieeexplore.ieee.org/document/9744329">Old Photo Restoration via Deep Latent Space Translation|GAN/Prior-based|
 |TPAMI2023|<a href="https://ieeexplore.ieee.org/document/9730053">Multi-Modality Deep Restoration of Extremely Compressed Face Videos|GAN/Prior-based|
@@ -218,7 +218,7 @@
 |ICLR2025|<a href="https://arxiv.org/pdf/2410.04161">OVERCOMING FALSE ILLUSIONS IN REAL-WORLD FACE RESTORATION WITH MULTI-MODAL GUIDED DIFFUSION MODEL|Diffusion-based|
 |ICLR2025|<a href="https://arxiv.org/pdf/2410.00418">POSTERIOR-MEAN RECTIFIED FLOW: TOWARDS MIN IMUM MSE PHOTO-REALISTIC IMAGE RESTORATION|Diffusion-based|
 |CVPR2025|<a href="https://arxiv.org/abs/2411.17163">OSDFace: One-Step Diffusion Model for Face Restoration|Diffusion-based|
-|NeurIPs2025|<a href="https://arxiv.org/pdf/2510.12114">Self-Supervised Selective-Guided Diffusion Model for Old-Photo Face Restoration|Diffusion-based|
+|NeurIPS2025|<a href="https://arxiv.org/pdf/2510.12114">Self-Supervised Selective-Guided Diffusion Model for Old-Photo Face Restoration|Diffusion-based|
 
 
 
