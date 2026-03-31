@@ -289,8 +289,7 @@
 |TMM2023|<a href="https://ieeexplore.ieee.org/document/10180077">Learning to Hallucinate Face in the Dark|CNN-based|
 |AAAI2024|<a href="https://github.com/wcy-cs/IC-FSRDENet">Low-Light Face Super-resolution via Illumination, Structure, and Texture Associated Representation|Attention/diffusion-based|
 |TCSVT2024|<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10288219">Watch You Under Low-Resolution and Low-Illumination: Face Enhancement via Bi-Factor Degradation Decoupling|Attention-based|
-|Arxiv2026|<a href="https://arxiv.org/abs/2603.24969">PASDiff: Physics-Aware Semantic Guidance for Joint Real-world Low-Light Face Enhancement and Restoration
-|Diffusion-based|
+|Arxiv2026|<a href="https://arxiv.org/abs/2603.24969">PASDiff: Physics-Aware Semantic Guidance for Joint Real-world Low-Light Face Enhancement and Restoration|Diffusion-based|
 
 
 
