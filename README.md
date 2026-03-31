@@ -129,6 +129,7 @@
 |ACMMM2024|<a href="https://arxiv.org/pdf/2407.19768">Efficient Face Super-Resolution via Wavelet-based Feature Enhancement Network|Attention-based|
 |TSMCS2025|<a href="https://arxiv.org/pdf/2409.00591">Attention-Guided Multi-scale Interaction Network for Face Super-Resolution|Attention-based|
 |ICCV2025|<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Du_Diffusion_Transformer_meets_Multi-level_Wavelet_Spectrum_for_Single_Image_Super-Resolution_ICCV_2025_paper.pdf">Diffusion Transformer meets Multi-level Wavelet Spectrum for Single Image Super-Resolution|Diffusion-based|
+|ICCV2025|<a href="https://arxiv.org/html/2411.15295v2">Frequency-Guided Posterior Sampling for Diffusion-Based Image Restoration|Diffusion-based|
 
 
 ## Blind Tasks
@@ -216,9 +217,11 @@
 |ICLR2025|<a href="https://arxiv.org/pdf/2410.04161">OVERCOMING FALSE ILLUSIONS IN REAL-WORLD FACE RESTORATION WITH MULTI-MODAL GUIDED DIFFUSION MODEL|Diffusion-based|
 |ICLR2025|<a href="https://arxiv.org/pdf/2410.00418">POSTERIOR-MEAN RECTIFIED FLOW: TOWARDS MIN IMUM MSE PHOTO-REALISTIC IMAGE RESTORATION|Diffusion-based|
 |CVPR2025|<a href="https://arxiv.org/abs/2411.17163">OSDFace: One-Step Diffusion Model for Face Restoration|Diffusion-based|
+|ICML2025|<a href="https://dl.acm.org/doi/10.5555/3780338.3782354">Feature out! Let Raw Image as Your Condition for Blind Face Restoration|Diffusion-based|
 |NeurIPS2025|<a href="https://arxiv.org/pdf/2510.12114">Self-Supervised Selective-Guided Diffusion Model for Old-Photo Face Restoration|Diffusion-based|
 |NeurIPS2025|<a href="https://arxiv.org/abs/2507.07105">4KAgent: Agentic Any Image to 4K Super-Resolution|Diffusion-based|
-
+|ICLR2026|<a href="https://openreview.net/forum?id=aAb26aqU1E">LearnIR: Learnable Posterior Sampling for Real-World Image Restoration|Diffusion-based|
+|CVPR2026|<a href="https://amirhossein-kz.github.io/face2scene/">Face2Scene: Using Facial Degradation as an Oracle for Diffusion-Based Scene Restoration|Diffusion-based|
 
 ## Joint Tasks
 ### Joint Face Completion
