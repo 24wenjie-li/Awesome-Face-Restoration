@@ -217,6 +217,7 @@
 |ICLR2025|<a href="https://arxiv.org/pdf/2410.04161">OVERCOMING FALSE ILLUSIONS IN REAL-WORLD FACE RESTORATION WITH MULTI-MODAL GUIDED DIFFUSION MODEL|Diffusion-based|
 |ICLR2025|<a href="https://arxiv.org/pdf/2410.00418">POSTERIOR-MEAN RECTIFIED FLOW: TOWARDS MIN IMUM MSE PHOTO-REALISTIC IMAGE RESTORATION|Diffusion-based|
 |CVPR2025|<a href="https://arxiv.org/abs/2411.17163">OSDFace: One-Step Diffusion Model for Face Restoration|Diffusion-based|
+|ICCV2025|<a href="https://nycu-acm.github.io/DynFaceRestore/">DynFaceRestore: Balancing Fidelity and Quality in Diffusion-Guided Blind Face Restoration with Dynamic Blur-Level Mapping and Guidance|Diffusion-based|
 |ICML2025|<a href="https://dl.acm.org/doi/10.5555/3780338.3782354">Feature out! Let Raw Image as Your Condition for Blind Face Restoration|Diffusion-based|
 |NeurIPS2025|<a href="https://arxiv.org/pdf/2510.12114">Self-Supervised Selective-Guided Diffusion Model for Old-Photo Face Restoration|Diffusion-based|
 |NeurIPS2025|<a href="https://arxiv.org/abs/2507.07105">4KAgent: Agentic Any Image to 4K Super-Resolution|Diffusion-based|
