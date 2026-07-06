@@ -222,6 +222,7 @@
 |NeurIPS2025|<a href="https://arxiv.org/pdf/2510.12114">Self-Supervised Selective-Guided Diffusion Model for Old-Photo Face Restoration|Diffusion-based|
 |NeurIPS2025|<a href="https://arxiv.org/abs/2507.07105">4KAgent: Agentic Any Image to 4K Super-Resolution|Diffusion-based|
 |ICLR2026|<a href="https://openreview.net/forum?id=aAb26aqU1E">LearnIR: Learnable Posterior Sampling for Real-World Image Restoration|Diffusion-based|
+|AAAI2026|<a href="https://github.com/yinzhicun/RefSTAR">RefSTAR: Blind Facial Image Restoration with Reference Selection, Transfer, and Reconstruction|Diffusion/Reference-based|
 |CVPR2026|<a href="https://amirhossein-kz.github.io/face2scene/">Face2Scene: Using Facial Degradation as an Oracle for Diffusion-Based Scene Restoration|Diffusion-based|
 
 ## Joint Tasks
