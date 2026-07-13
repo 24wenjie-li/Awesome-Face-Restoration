@@ -244,6 +244,8 @@
 |ICASSP2023|<a href="https://ieeexplore.ieee.org/document/10097082">Fine-Grained Blind Face Inpainting with 3D Face Component Disentanglement|Prior-based|
 |TIP2023|<a href="https://ieeexplore.ieee.org/document/10036452">Deep Face Video Inpainting via UV Mapping|Attention/GAN/Prior-based|
 |PR2023|<a href="https://www.sciencedirect.com/science/article/pii/S1047320323000561">Joint face completion and super-resolution using multi-scale feature relation learning|Attention/GAN/Prior-based|
+|ICLR2026|<a href="https://openreview.net/forum?id=aAb26aqU1E">LearnIR: Learnable Posterior Sampling for Real-World Image Restoration|Diffusion-based|
+
 
 
 
