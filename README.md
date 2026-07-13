@@ -224,6 +224,7 @@
 |ICLR2026|<a href="https://openreview.net/forum?id=aAb26aqU1E">LearnIR: Learnable Posterior Sampling for Real-World Image Restoration|Diffusion-based|
 |AAAI2026|<a href="https://github.com/yinzhicun/RefSTAR">RefSTAR: Blind Facial Image Restoration with Reference Selection, Transfer, and Reconstruction|Diffusion/Reference-based|
 |CVPR2026|<a href="https://amirhossein-kz.github.io/face2scene/">Face2Scene: Using Facial Degradation as an Oracle for Diffusion-Based Scene Restoration|Diffusion-based|
+|CVPR2026|<a href="https://arxiv.org/abs/2603.29773">Beyond Ground-Truth: Leveraging Image Quality Priors for Real-World Image Restoration|GAN/Prior-based|
 
 ## Joint Tasks
 ### Joint Face Completion
