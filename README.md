@@ -22,11 +22,12 @@
 ## :clipboard: Citation
 
 ```
-@article{li2023survey,
-  title={Survey on Deep Face Restoration: From Non-blind to Blind and Beyond},
-  author={Li, Wenjie and Wang, Mei and Zhang, Kai and Li, Juncheng and Li, Xiaoming and Zhang, Yuhang and Gao, Guangwei and Deng, Weihong and Lin, Chia-Wen},
-  journal={arXiv preprint arXiv:2309.15490},
-  year={2023}
+@article{li2025survey,
+  title={Survey on deep face restoration: From non-blind to blind and beyond},
+  author={Li, Wenjie and Wang, Mei and Zhang, Kai and Li, Juncheng and Li, Xiaoming and Zhang, Yuhang and Gao, Guangwei and Ma, Zhanyu},
+  journal={ACM Computing Surveys},
+  year={2025},
+  publisher={ACM New York, NY}
 }
 ```
 
